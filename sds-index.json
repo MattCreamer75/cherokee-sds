@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-22 18:23",
-  "count": 40,
+  "generated": "2026-06-22 18:25",
+  "count": 55,
   "items": [
     {
       "product": "No Rinse Neutral pH Floor Cleaner",
@@ -320,6 +320,126 @@
       "category": "Paint Area",
       "revision": "5/9/2026",
       "path": "sds/Paint Area/Xylene.pdf",
+      "has_text": true
+    },
+    {
+      "product": "308L tig",
+      "manufacturer": "",
+      "category": "Welding",
+      "revision": "",
+      "path": "sds/Welding/308L tig.pdf",
+      "has_text": true
+    },
+    {
+      "product": "Acetylene (Matheson)",
+      "manufacturer": "Matheson",
+      "category": "Welding",
+      "revision": "",
+      "path": "sds/Welding/Acetylene (Matheson).pdf",
+      "has_text": false
+    },
+    {
+      "product": "Argon Compressed (Matheson)",
+      "manufacturer": "Matheson",
+      "category": "Welding",
+      "revision": "",
+      "path": "sds/Welding/Argon Compressed (Matheson).pdf",
+      "has_text": false
+    },
+    {
+      "product": "Argon-CO2 75-25 Mix (Western Intl Gas)",
+      "manufacturer": "Western Intl Gas",
+      "category": "Welding",
+      "revision": "",
+      "path": "sds/Welding/Argon-CO2 75-25 Mix (Western Intl Gas).pdf",
+      "has_text": false
+    },
+    {
+      "product": "Carbon Dioxide (Matheson)",
+      "manufacturer": "Matheson",
+      "category": "Welding",
+      "revision": "",
+      "path": "sds/Welding/Carbon Dioxide (Matheson).pdf",
+      "has_text": false
+    },
+    {
+      "product": "CRC Anti-Spatter (SDS 32318)",
+      "manufacturer": "SDS 32318",
+      "category": "Welding",
+      "revision": "",
+      "path": "sds/Welding/CRC Anti-Spatter (SDS 32318).pdf",
+      "has_text": true
+    },
+    {
+      "product": "Lincoln UltraCore 71A85 Flux-Cored Wire",
+      "manufacturer": "",
+      "category": "Welding",
+      "revision": "04/02/2025",
+      "path": "sds/Welding/Lincoln UltraCore 71A85 Flux-Cored Wire.pdf",
+      "has_text": true
+    },
+    {
+      "product": "Oxygen Compressed (Matheson)",
+      "manufacturer": "Matheson",
+      "category": "Welding",
+      "revision": "",
+      "path": "sds/Welding/Oxygen Compressed (Matheson).pdf",
+      "has_text": false
+    },
+    {
+      "product": "Propane (Matheson)",
+      "manufacturer": "Matheson",
+      "category": "Welding",
+      "revision": "",
+      "path": "sds/Welding/Propane (Matheson).pdf",
+      "has_text": false
+    },
+    {
+      "product": "Stainless Welding Wire ER308L (Welding Material Sales)",
+      "manufacturer": "Welding Material Sales",
+      "category": "Welding",
+      "revision": "",
+      "path": "sds/Welding/Stainless Welding Wire ER308L (Welding Material Sales).pdf",
+      "has_text": true
+    },
+    {
+      "product": "Viking ER70S-6 MIG Wire (Davis Wire)",
+      "manufacturer": "Davis Wire",
+      "category": "Welding",
+      "revision": "",
+      "path": "sds/Welding/Viking ER70S-6 MIG Wire (Davis Wire).pdf",
+      "has_text": true
+    },
+    {
+      "product": "Washington Alloy Carbon Steel Electrodes SDS (AWS A5.1, 2019)",
+      "manufacturer": "AWS A5.1, 2019",
+      "category": "Welding",
+      "revision": "",
+      "path": "sds/Welding/Washington Alloy Carbon Steel Electrodes SDS (AWS A5.1, 2019).pdf",
+      "has_text": true
+    },
+    {
+      "product": "Washington Alloy E6010 (CoC)",
+      "manufacturer": "CoC",
+      "category": "Welding",
+      "revision": "",
+      "path": "sds/Welding/Washington Alloy E6010 (CoC).pdf",
+      "has_text": true
+    },
+    {
+      "product": "Washington Alloy E6011 (CoC)",
+      "manufacturer": "CoC",
+      "category": "Welding",
+      "revision": "",
+      "path": "sds/Welding/Washington Alloy E6011 (CoC).pdf",
+      "has_text": true
+    },
+    {
+      "product": "Washington Alloy E7018-1 (CoC)",
+      "manufacturer": "CoC",
+      "category": "Welding",
+      "revision": "",
+      "path": "sds/Welding/Washington Alloy E7018-1 (CoC).pdf",
       "has_text": true
     }
   ]
