@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-22 18:19",
-  "count": 2,
+  "generated": "2026-06-22 18:20",
+  "count": 4,
   "items": [
     {
       "product": "No Rinse Neutral pH Floor Cleaner",
@@ -16,6 +16,22 @@
       "category": "Added",
       "revision": "19.03.2024",
       "path": "sds/Added/Windex Glass Cleaner (35).pdf",
+      "has_text": true
+    },
+    {
+      "product": "Gasoline - All Grades (Marathon via Sun Coast)",
+      "manufacturer": "Marathon via Sun Coast",
+      "category": "Fuel",
+      "revision": "02/12/2026",
+      "path": "sds/Fuel/Gasoline - All Grades (Marathon via Sun Coast).pdf",
+      "has_text": true
+    },
+    {
+      "product": "No. 2 Diesel (Marathon via Sun Coast)",
+      "manufacturer": "Marathon via Sun Coast",
+      "category": "Fuel",
+      "revision": "02/12/2025",
+      "path": "sds/Fuel/No. 2 Diesel (Marathon via Sun Coast).pdf",
       "has_text": true
     }
   ]
