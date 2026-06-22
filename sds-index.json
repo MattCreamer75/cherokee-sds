@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-22 18:21",
-  "count": 16,
+  "generated": "2026-06-22 18:23",
+  "count": 40,
   "items": [
     {
       "product": "No Rinse Neutral pH Floor Cleaner",
@@ -128,6 +128,198 @@
       "category": "General",
       "revision": "08/06/2018",
       "path": "sds/General/Star Tron Enzyme Fuel Treatment - Gas (Star brite).pdf",
+      "has_text": true
+    },
+    {
+      "product": "7543402 Safety Yellow",
+      "manufacturer": "Rust-Oleum Corporation",
+      "category": "Paint Area",
+      "revision": "10/14/2022",
+      "path": "sds/Paint Area/7543402 Safety Yellow.pdf",
+      "has_text": true
+    },
+    {
+      "product": "DTM Bonding Primer",
+      "manufacturer": "THE SHERWIN-WILLIAMS COMPANY",
+      "category": "Paint Area",
+      "revision": "4/11/2026",
+      "path": "sds/Paint Area/DTM Bonding Primer.pdf",
+      "has_text": true
+    },
+    {
+      "product": "IC +SSPR 6PK GLOSS OSHA SAFETY ORANGE",
+      "manufacturer": "Rust-Oleum Corporation",
+      "category": "Paint Area",
+      "revision": "4/6/2021",
+      "path": "sds/Paint Area/IC +SSPR 6PK GLOSS OSHA SAFETY ORANGE.pdf",
+      "has_text": true
+    },
+    {
+      "product": "Industrial Enamel - Safety Yellow",
+      "manufacturer": "",
+      "category": "Paint Area",
+      "revision": "5/3/2026",
+      "path": "sds/Paint Area/Industrial Enamel - Safety Yellow.pdf",
+      "has_text": true
+    },
+    {
+      "product": "K119 Lacquer Thinner",
+      "manufacturer": "THE SHERWIN-WILLIAMS COMPANY",
+      "category": "Paint Area",
+      "revision": "5/3/2026",
+      "path": "sds/Paint Area/K119 Lacquer Thinner.pdf",
+      "has_text": true
+    },
+    {
+      "product": "KEM® 400 Primer Gray",
+      "manufacturer": "THE SHERWIN-WILLIAMS COMPANY",
+      "category": "Paint Area",
+      "revision": "5/3/2026",
+      "path": "sds/Paint Area/KEM® 400 Primer Gray.pdf",
+      "has_text": true
+    },
+    {
+      "product": "KRYLON® COLORmaxx™ Gloss Leather Brown",
+      "manufacturer": "Krylon Products Group",
+      "category": "Paint Area",
+      "revision": "6/15/2024",
+      "path": "sds/Paint Area/KRYLON® COLORmaxx™ Gloss Leather Brown.pdf",
+      "has_text": true
+    },
+    {
+      "product": "KRYLON® COLORmaxx™ Gloss Sun Yellow",
+      "manufacturer": "Krylon Products Group",
+      "category": "Paint Area",
+      "revision": "5/9/2024",
+      "path": "sds/Paint Area/KRYLON® COLORmaxx™ Gloss Sun Yellow.pdf",
+      "has_text": true
+    },
+    {
+      "product": "KRYLON® ColorMaxx™ Primer Red Oxide",
+      "manufacturer": "Krylon Products Group",
+      "category": "Paint Area",
+      "revision": "5/28/2024",
+      "path": "sds/Paint Area/KRYLON® ColorMaxx™ Primer Red Oxide.pdf",
+      "has_text": true
+    },
+    {
+      "product": "KRYLON® OSHA Colors Safety Yellow",
+      "manufacturer": "Krylon Products Group",
+      "category": "Paint Area",
+      "revision": "5/23/2026",
+      "path": "sds/Paint Area/KRYLON® OSHA Colors Safety Yellow.pdf",
+      "has_text": true
+    },
+    {
+      "product": "KRYLON® PRO PROFESSIONAL Galvanizing Primer",
+      "manufacturer": "Krylon Products Group",
+      "category": "Paint Area",
+      "revision": "9/27/2024",
+      "path": "sds/Paint Area/KRYLON® PRO PROFESSIONAL Galvanizing Primer.pdf",
+      "has_text": true
+    },
+    {
+      "product": "KRYLON® PRO PROFESSIONAL Solvent-Based Marking Paint APWA Safety Yellow",
+      "manufacturer": "Krylon Products Group",
+      "category": "Paint Area",
+      "revision": "9/14/2025",
+      "path": "sds/Paint Area/KRYLON® PRO PROFESSIONAL Solvent-Based Marking Paint APWA Safety Yellow.pdf",
+      "has_text": true
+    },
+    {
+      "product": "M-1 Gloss Remover",
+      "manufacturer": "",
+      "category": "Paint Area",
+      "revision": "05/28/15",
+      "path": "sds/Paint Area/M-1 Gloss Remover.pdf",
+      "has_text": true
+    },
+    {
+      "product": "Mineral Spirits",
+      "manufacturer": "THE SHERWIN-WILLIAMS COMPANY",
+      "category": "Paint Area",
+      "revision": "5/9/2026",
+      "path": "sds/Paint Area/Mineral Spirits.pdf",
+      "has_text": true
+    },
+    {
+      "product": "PRO +LSPR 6PK FLAT GRAY PRIMER",
+      "manufacturer": "Rust-Oleum Corporation",
+      "category": "Paint Area",
+      "revision": "7/8/2025",
+      "path": "sds/Paint Area/PRO +LSPR 6PK FLAT GRAY PRIMER.pdf",
+      "has_text": true
+    },
+    {
+      "product": "Pro Ind Gloss Black",
+      "manufacturer": "THE SHERWIN-WILLIAMS COMPANY",
+      "category": "Paint Area",
+      "revision": "8/1/2025",
+      "path": "sds/Paint Area/Pro Ind Gloss Black.pdf",
+      "has_text": true
+    },
+    {
+      "product": "Pro Ind Pure White",
+      "manufacturer": "THE SHERWIN-WILLIAMS COMPANY",
+      "category": "Paint Area",
+      "revision": "10/21/2025",
+      "path": "sds/Paint Area/Pro Ind Pure White.pdf",
+      "has_text": true
+    },
+    {
+      "product": "Pro Ind Safety Yellow",
+      "manufacturer": "THE SHERWIN-WILLIAMS COMPANY",
+      "category": "Paint Area",
+      "revision": "4/11/2026",
+      "path": "sds/Paint Area/Pro Ind Safety Yellow.pdf",
+      "has_text": true
+    },
+    {
+      "product": "Steel Spec® 1003 Shopcoat Primer Gray",
+      "manufacturer": "THE SHERWIN-WILLIAMS COMPANY",
+      "category": "Paint Area",
+      "revision": "6/15/2026",
+      "path": "sds/Paint Area/Steel Spec® 1003 Shopcoat Primer Gray.pdf",
+      "has_text": true
+    },
+    {
+      "product": "STRUST +SSPR 6PK GLOSS SUNBURST YELLOW",
+      "manufacturer": "Rust-Oleum Corporation",
+      "category": "Paint Area",
+      "revision": "2/21/2023",
+      "path": "sds/Paint Area/STRUST +SSPR 6PK GLOSS SUNBURST YELLOW.pdf",
+      "has_text": true
+    },
+    {
+      "product": "SW Mineral Spirits",
+      "manufacturer": "THE SHERWIN-WILLIAMS COMPANY",
+      "category": "Paint Area",
+      "revision": "7/31/2025",
+      "path": "sds/Paint Area/SW Mineral Spirits.pdf",
+      "has_text": true
+    },
+    {
+      "product": "SW Xylene",
+      "manufacturer": "",
+      "category": "Paint Area",
+      "revision": "8/1/2025",
+      "path": "sds/Paint Area/SW Xylene.pdf",
+      "has_text": true
+    },
+    {
+      "product": "THOMPSON'S® US Signature Series Clear Wood Protector Sealer",
+      "manufacturer": "THE THOMPSON",
+      "category": "Paint Area",
+      "revision": "5/12/2026",
+      "path": "sds/Paint Area/THOMPSON'S® US Signature Series Clear Wood Protector Sealer.pdf",
+      "has_text": true
+    },
+    {
+      "product": "Xylene",
+      "manufacturer": "THE SHERWIN-WILLIAMS COMPANY",
+      "category": "Paint Area",
+      "revision": "5/9/2026",
+      "path": "sds/Paint Area/Xylene.pdf",
       "has_text": true
     }
   ]
