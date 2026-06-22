@@ -1,446 +1,916 @@
 {
-  "generated": "2026-06-22 18:25",
-  "count": 55,
+  "generated": "2026-06-22 19:43",
+  "count": 53,
+  "categories": [
+    "Adhesive / sealant",
+    "Aerosol",
+    "Cleaner",
+    "Cutting fluid",
+    "Fuel",
+    "Gas",
+    "Maintenance / lube",
+    "Metal prep",
+    "Paint / coating",
+    "Solvent",
+    "Stick electrode",
+    "Welding wire"
+  ],
   "items": [
     {
-      "product": "No Rinse Neutral pH Floor Cleaner",
-      "manufacturer": "",
-      "category": "Added",
-      "revision": "02/27/2026",
-      "path": "sds/Added/No Rinse Neutral pH Floor Cleaner (34).pdf",
-      "has_text": true
-    },
-    {
-      "product": "Windex Glass Cleaner",
-      "manufacturer": "",
-      "category": "Added",
-      "revision": "19.03.2024",
-      "path": "sds/Added/Windex Glass Cleaner (35).pdf",
-      "has_text": true
-    },
-    {
-      "product": "Gasoline - All Grades (Marathon via Sun Coast)",
-      "manufacturer": "Marathon via Sun Coast",
-      "category": "Fuel",
-      "revision": "02/12/2026",
-      "path": "sds/Fuel/Gasoline - All Grades (Marathon via Sun Coast).pdf",
-      "has_text": true
-    },
-    {
-      "product": "No. 2 Diesel (Marathon via Sun Coast)",
-      "manufacturer": "Marathon via Sun Coast",
-      "category": "Fuel",
-      "revision": "02/12/2025",
-      "path": "sds/Fuel/No. 2 Diesel (Marathon via Sun Coast).pdf",
-      "has_text": true
-    },
-    {
-      "product": "CRC Battery Cleaner 05023",
-      "manufacturer": "CRC Industries, Inc",
-      "category": "General",
-      "revision": "06-08-2021",
-      "path": "sds/General/CRC Battery Cleaner 05023.pdf",
-      "has_text": true
-    },
-    {
-      "product": "CRC Cutting Oil 14050",
-      "manufacturer": "CRC Industries, Inc",
-      "category": "General",
-      "revision": "11-20-2020",
-      "path": "sds/General/CRC Cutting Oil 14050.pdf",
-      "has_text": true
-    },
-    {
-      "product": "CRC Foaming Coil Cleaner",
-      "manufacturer": "CRC Industries, Inc",
-      "category": "General",
-      "revision": "10-07-2020",
-      "path": "sds/General/CRC Foaming Coil Cleaner (03196).pdf",
-      "has_text": true
-    },
-    {
-      "product": "DAP 100pct Silicone Sealant",
-      "manufacturer": "",
-      "category": "General",
-      "revision": "4/12/2022",
+      "id": "sds-shelf-dap-100-silicone-all-purpose-sealant-clear",
+      "product": "DAP 100% Silicone All-Purpose Sealant (Clear)",
+      "category": "Adhesive / sealant",
+      "category_key": "adhesive",
+      "manufacturer": "DAP Global Inc.",
+      "revision": "SDS 9968804 (2022-04-12)",
+      "status": "On file",
+      "signal": "Warning",
+      "ghs": [
+        "GHS07"
+      ],
+      "location": "Fabrication / maintenance",
       "path": "sds/General/DAP 100pct Silicone Sealant.pdf",
-      "has_text": true
+      "has_pdf": true
     },
     {
-      "product": "DG Home Window Cleaner (Sun-Pine)",
-      "manufacturer": "Sun-Pine",
-      "category": "General",
-      "revision": "1-Jan-2019",
-      "path": "sds/General/DG Home Window Cleaner (Sun-Pine).pdf",
-      "has_text": true
-    },
-    {
-      "product": "Dymon THE End Wasp & Hornet Killer (Grainger 237567)",
-      "manufacturer": "Grainger 237567",
-      "category": "General",
-      "revision": "06-11-2018",
-      "path": "sds/General/Dymon THE End Wasp & Hornet Killer (Grainger 237567).pdf",
-      "has_text": true
-    },
-    {
-      "product": "Klean-Strip Acetone (WM Barr)",
-      "manufacturer": "WM Barr",
-      "category": "General",
-      "revision": "06/26/2019",
-      "path": "sds/General/Klean-Strip Acetone (WM Barr).pdf",
-      "has_text": true
-    },
-    {
-      "product": "Krud Kutter Metal Clean & Etch (Rust-Oleum)",
-      "manufacturer": "Rust-Oleum",
-      "category": "General",
-      "revision": "7/27/2022",
-      "path": "sds/General/Krud Kutter Metal Clean & Etch (Rust-Oleum).pdf",
-      "has_text": true
-    },
-    {
-      "product": "PerfectStop Non-Chlorinated Brake Cleaner (Penray 0735)",
-      "manufacturer": "Penray 0735",
-      "category": "General",
-      "revision": "03/31/2014",
-      "path": "sds/General/PerfectStop Non-Chlorinated Brake Cleaner (Penray 0735).pdf",
-      "has_text": true
-    },
-    {
-      "product": "Relton New Rapid Tap (Cutting Fluid)",
-      "manufacturer": "Cutting Fluid",
-      "category": "General",
-      "revision": "",
-      "path": "sds/General/Relton New Rapid Tap (Cutting Fluid).pdf",
-      "has_text": true
-    },
-    {
-      "product": "Schaeffer 205A Full-Synthetic ATF",
-      "manufacturer": "",
-      "category": "General",
-      "revision": "",
-      "path": "sds/General/Schaeffer 205A Full-Synthetic ATF.pdf",
-      "has_text": true
-    },
-    {
-      "product": "Star Tron Enzyme Fuel Treatment - Gas (Star brite)",
-      "manufacturer": "Star brite",
-      "category": "General",
-      "revision": "08/06/2018",
-      "path": "sds/General/Star Tron Enzyme Fuel Treatment - Gas (Star brite).pdf",
-      "has_text": true
-    },
-    {
-      "product": "7543402 Safety Yellow",
-      "manufacturer": "Rust-Oleum Corporation",
-      "category": "Paint Area",
-      "revision": "10/14/2022",
-      "path": "sds/Paint Area/7543402 Safety Yellow.pdf",
-      "has_text": true
-    },
-    {
-      "product": "DTM Bonding Primer",
-      "manufacturer": "THE SHERWIN-WILLIAMS COMPANY",
-      "category": "Paint Area",
-      "revision": "4/11/2026",
-      "path": "sds/Paint Area/DTM Bonding Primer.pdf",
-      "has_text": true
-    },
-    {
-      "product": "IC +SSPR 6PK GLOSS OSHA SAFETY ORANGE",
-      "manufacturer": "Rust-Oleum Corporation",
-      "category": "Paint Area",
-      "revision": "4/6/2021",
-      "path": "sds/Paint Area/IC +SSPR 6PK GLOSS OSHA SAFETY ORANGE.pdf",
-      "has_text": true
-    },
-    {
-      "product": "Industrial Enamel - Safety Yellow",
-      "manufacturer": "",
-      "category": "Paint Area",
-      "revision": "5/3/2026",
-      "path": "sds/Paint Area/Industrial Enamel - Safety Yellow.pdf",
-      "has_text": true
-    },
-    {
-      "product": "K119 Lacquer Thinner",
-      "manufacturer": "THE SHERWIN-WILLIAMS COMPANY",
-      "category": "Paint Area",
-      "revision": "5/3/2026",
-      "path": "sds/Paint Area/K119 Lacquer Thinner.pdf",
-      "has_text": true
-    },
-    {
-      "product": "KEM® 400 Primer Gray",
-      "manufacturer": "THE SHERWIN-WILLIAMS COMPANY",
-      "category": "Paint Area",
-      "revision": "5/3/2026",
-      "path": "sds/Paint Area/KEM® 400 Primer Gray.pdf",
-      "has_text": true
-    },
-    {
-      "product": "KRYLON® COLORmaxx™ Gloss Leather Brown",
-      "manufacturer": "Krylon Products Group",
-      "category": "Paint Area",
-      "revision": "6/15/2024",
-      "path": "sds/Paint Area/KRYLON® COLORmaxx™ Gloss Leather Brown.pdf",
-      "has_text": true
-    },
-    {
-      "product": "KRYLON® COLORmaxx™ Gloss Sun Yellow",
-      "manufacturer": "Krylon Products Group",
-      "category": "Paint Area",
-      "revision": "5/9/2024",
-      "path": "sds/Paint Area/KRYLON® COLORmaxx™ Gloss Sun Yellow.pdf",
-      "has_text": true
-    },
-    {
-      "product": "KRYLON® ColorMaxx™ Primer Red Oxide",
-      "manufacturer": "Krylon Products Group",
-      "category": "Paint Area",
-      "revision": "5/28/2024",
-      "path": "sds/Paint Area/KRYLON® ColorMaxx™ Primer Red Oxide.pdf",
-      "has_text": true
-    },
-    {
-      "product": "KRYLON® OSHA Colors Safety Yellow",
-      "manufacturer": "Krylon Products Group",
-      "category": "Paint Area",
-      "revision": "5/23/2026",
-      "path": "sds/Paint Area/KRYLON® OSHA Colors Safety Yellow.pdf",
-      "has_text": true
-    },
-    {
-      "product": "KRYLON® PRO PROFESSIONAL Galvanizing Primer",
-      "manufacturer": "Krylon Products Group",
-      "category": "Paint Area",
-      "revision": "9/27/2024",
-      "path": "sds/Paint Area/KRYLON® PRO PROFESSIONAL Galvanizing Primer.pdf",
-      "has_text": true
-    },
-    {
-      "product": "KRYLON® PRO PROFESSIONAL Solvent-Based Marking Paint APWA Safety Yellow",
-      "manufacturer": "Krylon Products Group",
-      "category": "Paint Area",
-      "revision": "9/14/2025",
-      "path": "sds/Paint Area/KRYLON® PRO PROFESSIONAL Solvent-Based Marking Paint APWA Safety Yellow.pdf",
-      "has_text": true
-    },
-    {
-      "product": "M-1 Gloss Remover",
-      "manufacturer": "",
-      "category": "Paint Area",
-      "revision": "05/28/15",
-      "path": "sds/Paint Area/M-1 Gloss Remover.pdf",
-      "has_text": true
-    },
-    {
-      "product": "Mineral Spirits",
-      "manufacturer": "THE SHERWIN-WILLIAMS COMPANY",
-      "category": "Paint Area",
-      "revision": "5/9/2026",
-      "path": "sds/Paint Area/Mineral Spirits.pdf",
-      "has_text": true
-    },
-    {
-      "product": "PRO +LSPR 6PK FLAT GRAY PRIMER",
-      "manufacturer": "Rust-Oleum Corporation",
-      "category": "Paint Area",
-      "revision": "7/8/2025",
-      "path": "sds/Paint Area/PRO +LSPR 6PK FLAT GRAY PRIMER.pdf",
-      "has_text": true
-    },
-    {
-      "product": "Pro Ind Gloss Black",
-      "manufacturer": "THE SHERWIN-WILLIAMS COMPANY",
-      "category": "Paint Area",
-      "revision": "8/1/2025",
-      "path": "sds/Paint Area/Pro Ind Gloss Black.pdf",
-      "has_text": true
-    },
-    {
-      "product": "Pro Ind Pure White",
-      "manufacturer": "THE SHERWIN-WILLIAMS COMPANY",
-      "category": "Paint Area",
-      "revision": "10/21/2025",
-      "path": "sds/Paint Area/Pro Ind Pure White.pdf",
-      "has_text": true
-    },
-    {
-      "product": "Pro Ind Safety Yellow",
-      "manufacturer": "THE SHERWIN-WILLIAMS COMPANY",
-      "category": "Paint Area",
-      "revision": "4/11/2026",
-      "path": "sds/Paint Area/Pro Ind Safety Yellow.pdf",
-      "has_text": true
-    },
-    {
-      "product": "Steel Spec® 1003 Shopcoat Primer Gray",
-      "manufacturer": "THE SHERWIN-WILLIAMS COMPANY",
-      "category": "Paint Area",
-      "revision": "6/15/2026",
-      "path": "sds/Paint Area/Steel Spec® 1003 Shopcoat Primer Gray.pdf",
-      "has_text": true
-    },
-    {
-      "product": "STRUST +SSPR 6PK GLOSS SUNBURST YELLOW",
-      "manufacturer": "Rust-Oleum Corporation",
-      "category": "Paint Area",
-      "revision": "2/21/2023",
-      "path": "sds/Paint Area/STRUST +SSPR 6PK GLOSS SUNBURST YELLOW.pdf",
-      "has_text": true
-    },
-    {
-      "product": "SW Mineral Spirits",
-      "manufacturer": "THE SHERWIN-WILLIAMS COMPANY",
-      "category": "Paint Area",
-      "revision": "7/31/2025",
-      "path": "sds/Paint Area/SW Mineral Spirits.pdf",
-      "has_text": true
-    },
-    {
-      "product": "SW Xylene",
-      "manufacturer": "",
-      "category": "Paint Area",
-      "revision": "8/1/2025",
-      "path": "sds/Paint Area/SW Xylene.pdf",
-      "has_text": true
-    },
-    {
-      "product": "THOMPSON'S® US Signature Series Clear Wood Protector Sealer",
-      "manufacturer": "THE THOMPSON",
-      "category": "Paint Area",
-      "revision": "5/12/2026",
-      "path": "sds/Paint Area/THOMPSON'S® US Signature Series Clear Wood Protector Sealer.pdf",
-      "has_text": true
-    },
-    {
-      "product": "Xylene",
-      "manufacturer": "THE SHERWIN-WILLIAMS COMPANY",
-      "category": "Paint Area",
-      "revision": "5/9/2026",
-      "path": "sds/Paint Area/Xylene.pdf",
-      "has_text": true
-    },
-    {
-      "product": "308L tig",
-      "manufacturer": "",
-      "category": "Welding",
-      "revision": "",
-      "path": "sds/Welding/308L tig.pdf",
-      "has_text": true
-    },
-    {
-      "product": "Acetylene (Matheson)",
-      "manufacturer": "Matheson",
-      "category": "Welding",
-      "revision": "",
-      "path": "sds/Welding/Acetylene (Matheson).pdf",
-      "has_text": false
-    },
-    {
-      "product": "Argon Compressed (Matheson)",
-      "manufacturer": "Matheson",
-      "category": "Welding",
-      "revision": "",
-      "path": "sds/Welding/Argon Compressed (Matheson).pdf",
-      "has_text": false
-    },
-    {
-      "product": "Argon-CO2 75-25 Mix (Western Intl Gas)",
-      "manufacturer": "Western Intl Gas",
-      "category": "Welding",
-      "revision": "",
-      "path": "sds/Welding/Argon-CO2 75-25 Mix (Western Intl Gas).pdf",
-      "has_text": false
-    },
-    {
-      "product": "Carbon Dioxide (Matheson)",
-      "manufacturer": "Matheson",
-      "category": "Welding",
-      "revision": "",
-      "path": "sds/Welding/Carbon Dioxide (Matheson).pdf",
-      "has_text": false
-    },
-    {
-      "product": "CRC Anti-Spatter (SDS 32318)",
-      "manufacturer": "SDS 32318",
-      "category": "Welding",
-      "revision": "",
+      "id": "sds-welding-crc-anti-spatter",
+      "product": "CRC Anti-Spatter (Aerosol)",
+      "category": "Aerosol",
+      "category_key": "aerosol",
+      "manufacturer": "CRC Industries Europe BV",
+      "revision": "Version 6.0 (2021-04-21)",
+      "status": "On file",
+      "signal": "Warning",
+      "ghs": [
+        "GHS08"
+      ],
+      "location": "Welding bays",
       "path": "sds/Welding/CRC Anti-Spatter (SDS 32318).pdf",
-      "has_text": true
+      "has_pdf": true
     },
     {
-      "product": "Lincoln UltraCore 71A85 Flux-Cored Wire",
-      "manufacturer": "",
-      "category": "Welding",
-      "revision": "04/02/2025",
-      "path": "sds/Welding/Lincoln UltraCore 71A85 Flux-Cored Wire.pdf",
-      "has_text": true
+      "id": "sds-paint-krylon-covermaxx-leather-brown",
+      "product": "Krylon CoverMaxx, Gloss Leather Brown",
+      "category": "Aerosol",
+      "category_key": "aerosol",
+      "manufacturer": "Krylon Products Group (Sherwin-Williams)",
+      "revision": "Version 24",
+      "status": "Verify",
+      "signal": "Danger",
+      "ghs": [
+        "GHS02",
+        "GHS04",
+        "GHS07",
+        "GHS08"
+      ],
+      "location": "Paint shop",
+      "path": "sds/Paint Area/KRYLON® COLORmaxx™ Gloss Leather Brown.pdf",
+      "has_pdf": true
     },
     {
-      "product": "Oxygen Compressed (Matheson)",
-      "manufacturer": "Matheson",
-      "category": "Welding",
-      "revision": "",
+      "id": "sds-paint-krylon-covermaxx-sun-yellow",
+      "product": "Krylon CoverMaxx, Gloss Sun Yellow",
+      "category": "Aerosol",
+      "category_key": "aerosol",
+      "manufacturer": "Krylon Products Group (Sherwin-Williams)",
+      "revision": "Version 27",
+      "status": "Verify",
+      "signal": "Danger",
+      "ghs": [
+        "GHS02",
+        "GHS04",
+        "GHS07",
+        "GHS08"
+      ],
+      "location": "Paint shop",
+      "path": "sds/Paint Area/KRYLON® COLORmaxx™ Gloss Sun Yellow.pdf",
+      "has_pdf": true
+    },
+    {
+      "id": "sds-paint-krylon-covermaxx-red-oxide-primer",
+      "product": "Krylon CoverMaxx, Red Oxide Primer",
+      "category": "Aerosol",
+      "category_key": "aerosol",
+      "manufacturer": "Krylon Products Group (Sherwin-Williams)",
+      "revision": "Version 24",
+      "status": "Verify",
+      "signal": "Danger",
+      "ghs": [
+        "GHS02",
+        "GHS04",
+        "GHS07",
+        "GHS08"
+      ],
+      "location": "Paint shop",
+      "path": "sds/Paint Area/KRYLON® ColorMaxx™ Primer Red Oxide.pdf",
+      "has_pdf": true
+    },
+    {
+      "id": "sds-paint-krylon-osha-colors-safety-yellow",
+      "product": "Krylon OSHA Colors, Safety Yellow",
+      "category": "Aerosol",
+      "category_key": "aerosol",
+      "manufacturer": "Krylon Products Group (Sherwin-Williams)",
+      "revision": "Version 34.01",
+      "status": "Verify",
+      "signal": "Danger",
+      "ghs": [
+        "GHS02",
+        "GHS07",
+        "GHS08"
+      ],
+      "location": "Paint shop",
+      "path": "sds/Paint Area/KRYLON® OSHA Colors Safety Yellow.pdf",
+      "has_pdf": true
+    },
+    {
+      "id": "sds-paint-krylon-pro-galvanizing-primer",
+      "product": "Krylon Pro Professional Galvanizing Primer",
+      "category": "Aerosol",
+      "category_key": "aerosol",
+      "manufacturer": "Krylon Products Group (Sherwin-Williams)",
+      "revision": "Version 25",
+      "status": "Verify",
+      "signal": "Danger",
+      "ghs": [
+        "GHS02",
+        "GHS04",
+        "GHS07",
+        "GHS08"
+      ],
+      "location": "Paint shop",
+      "path": "sds/Paint Area/KRYLON® PRO PROFESSIONAL Galvanizing Primer.pdf",
+      "has_pdf": true
+    },
+    {
+      "id": "sds-paint-krylon-pro-marking-apwa-safety-yellow",
+      "product": "Krylon Pro Solvent-Based Marking Paint, APWA Safety Yellow",
+      "category": "Aerosol",
+      "category_key": "aerosol",
+      "manufacturer": "Krylon Products Group (Sherwin-Williams)",
+      "revision": "Version 33",
+      "status": "Verify",
+      "signal": "Danger",
+      "ghs": [
+        "GHS02",
+        "GHS07",
+        "GHS08"
+      ],
+      "location": "Paint shop",
+      "path": "sds/Paint Area/KRYLON® PRO PROFESSIONAL Solvent-Based Marking Paint APWA Safety Yellow.pdf",
+      "has_pdf": true
+    },
+    {
+      "id": "sds-paint-krylon-rust-protector-gloss-black",
+      "product": "Krylon Rust Protector Enamel, Gloss Black",
+      "category": "Aerosol",
+      "category_key": "aerosol",
+      "manufacturer": "Krylon Products Group (Sherwin-Williams)",
+      "revision": "Version 24",
+      "status": "Verify",
+      "signal": "Danger",
+      "ghs": [
+        "GHS02",
+        "GHS04",
+        "GHS07",
+        "GHS08"
+      ],
+      "location": "Paint shop",
+      "path": "",
+      "has_pdf": false
+    },
+    {
+      "id": "sds-paint-krylon-rust-protector-gloss-white",
+      "product": "Krylon Rust Protector Enamel, Gloss White",
+      "category": "Aerosol",
+      "category_key": "aerosol",
+      "manufacturer": "Krylon Products Group (Sherwin-Williams)",
+      "revision": "Version 29",
+      "status": "Verify",
+      "signal": "Danger",
+      "ghs": [
+        "GHS02",
+        "GHS04",
+        "GHS07",
+        "GHS08"
+      ],
+      "location": "Paint shop",
+      "path": "",
+      "has_pdf": false
+    },
+    {
+      "id": "sds-paint-rustoleum-osha-safety-orange",
+      "product": "Rust-Oleum Gloss OSHA Safety Orange",
+      "category": "Aerosol",
+      "category_key": "aerosol",
+      "manufacturer": "Rust-Oleum Corporation",
+      "revision": "Rev 2021-04-06",
+      "status": "Verify",
+      "signal": "Danger",
+      "ghs": [
+        "GHS02",
+        "GHS04",
+        "GHS05",
+        "GHS07"
+      ],
+      "location": "Paint shop",
+      "path": "sds/Paint Area/IC +SSPR 6PK GLOSS OSHA SAFETY ORANGE.pdf",
+      "has_pdf": true
+    },
+    {
+      "id": "sds-paint-rustoleum-flat-gray-primer",
+      "product": "Rust-Oleum Pro Flat Gray Primer",
+      "category": "Aerosol",
+      "category_key": "aerosol",
+      "manufacturer": "Rust-Oleum Corporation",
+      "revision": "Rev 2025-07-08",
+      "status": "Verify",
+      "signal": "Danger",
+      "ghs": [
+        "GHS02",
+        "GHS04",
+        "GHS07",
+        "GHS08"
+      ],
+      "location": "Paint shop",
+      "path": "sds/Paint Area/PRO +LSPR 6PK FLAT GRAY PRIMER.pdf",
+      "has_pdf": true
+    },
+    {
+      "id": "sds-paint-rustoleum-sunburst-yellow",
+      "product": "Rust-Oleum Stops Rust Gloss Sunburst Yellow",
+      "category": "Aerosol",
+      "category_key": "aerosol",
+      "manufacturer": "Rust-Oleum Corporation",
+      "revision": "Rev 2023-02-21",
+      "status": "Verify",
+      "signal": "Danger",
+      "ghs": [
+        "GHS02",
+        "GHS04",
+        "GHS07",
+        "GHS08"
+      ],
+      "location": "Paint shop",
+      "path": "sds/Paint Area/STRUST +SSPR 6PK GLOSS SUNBURST YELLOW.pdf",
+      "has_pdf": true
+    },
+    {
+      "id": "sds-shelf-coil-cleaner-foaming-solvent-brand-unresolved",
+      "product": "CRC Foaming Coil Cleaner (No. 03196)",
+      "category": "Cleaner",
+      "category_key": "cleaner",
+      "manufacturer": "CRC Industries, Inc.",
+      "revision": "Version 01 (2020-10-07)",
+      "status": "On file",
+      "signal": "Danger",
+      "ghs": [
+        "GHS02",
+        "GHS07",
+        "GHS08",
+        "GHS09"
+      ],
+      "location": "HVAC / maintenance",
+      "path": "sds/General/CRC Foaming Coil Cleaner (03196).pdf",
+      "has_pdf": true
+    },
+    {
+      "id": "sds-shelf-dg-home-window-cleaner-with-ammonia",
+      "product": "DG Home Window Cleaner with Ammonia",
+      "category": "Cleaner",
+      "category_key": "cleaner",
+      "manufacturer": "Sun-Pine Corporation (for Dollar General)",
+      "revision": "Version 1 (2019-01-01)",
+      "status": "On file",
+      "signal": "None",
+      "ghs": [],
+      "location": "Janitorial / shop",
+      "path": "sds/General/DG Home Window Cleaner (Sun-Pine).pdf",
+      "has_pdf": true
+    },
+    {
+      "id": "sds-added-no-rinse-neutral-ph-floor-cleaner-mqi2q6pg",
+      "product": "No Rinse Neutral pH Floor Cleaner",
+      "category": "Cleaner",
+      "category_key": "cleaner",
+      "manufacturer": "OdoBan",
+      "revision": "Rev 2026-02-27 (v1.0)",
+      "status": "On file",
+      "signal": "Warning",
+      "ghs": [
+        "GHS06",
+        "GHS07"
+      ],
+      "location": "Janitorial",
+      "path": "sds/Added/No Rinse Neutral pH Floor Cleaner (34).pdf",
+      "has_pdf": true
+    },
+    {
+      "id": "sds-shelf-wasp-hornet-killer-grainger-2dcb5-tough-guy",
+      "product": "Wasp & Hornet Killer (Grainger 2DCB5 / Tough Guy)",
+      "category": "Cleaner",
+      "category_key": "cleaner",
+      "manufacturer": "ITW Pro Brands (Dymon 'THE End.')",
+      "revision": "Version 01 (2018-06-11)",
+      "status": "On file",
+      "signal": "Danger",
+      "ghs": [
+        "GHS02",
+        "GHS07",
+        "GHS09"
+      ],
+      "location": "Pest control / storage",
+      "path": "sds/General/Dymon THE End Wasp & Hornet Killer (Grainger 237567).pdf",
+      "has_pdf": true
+    },
+    {
+      "id": "sds-added-windex-glass-cleaner-mqi2ys1p",
+      "product": "Windex Glass Cleaner",
+      "category": "Cleaner",
+      "category_key": "cleaner",
+      "manufacturer": "S.C. Johnson & Son",
+      "revision": "Rev 2024-03-19 (SDS 350000028176)",
+      "status": "On file",
+      "signal": "None",
+      "ghs": [
+        "GHS06"
+      ],
+      "location": "Janitorial",
+      "path": "sds/Added/Windex Glass Cleaner (35).pdf",
+      "has_pdf": true
+    },
+    {
+      "id": "sds-shelf-crc-cutting-oil-thread-cutting-lubricant-14050",
+      "product": "CRC Cutting Oil — Thread Cutting Lubricant (14050)",
+      "category": "Cutting fluid",
+      "category_key": "cutting-fluid",
+      "manufacturer": "CRC Industries, Inc.",
+      "revision": "Version 02 (2020-11-20)",
+      "status": "On file",
+      "signal": "Danger",
+      "ghs": [
+        "GHS02",
+        "GHS08"
+      ],
+      "location": "Fabrication",
+      "path": "sds/General/CRC Cutting Oil 14050.pdf",
+      "has_pdf": true
+    },
+    {
+      "id": "sds-shelf-relton-new-rapid-tap-heavy-duty-cutting-fluid",
+      "product": "Relton New Rapid Tap (Heavy-Duty Cutting Fluid)",
+      "category": "Cutting fluid",
+      "category_key": "cutting-fluid",
+      "manufacturer": "Relton Corporation",
+      "revision": "Version 8.3 (2024-09-30)",
+      "status": "On file",
+      "signal": "Warning",
+      "ghs": [
+        "GHS07"
+      ],
+      "location": "Fabrication",
+      "path": "sds/General/Relton New Rapid Tap (Cutting Fluid).pdf",
+      "has_pdf": true
+    },
+    {
+      "id": "sds-shelf-no-2-diesel-fuel-ulsd-on-road",
+      "product": "No. 2 Diesel Fuel (ULSD, on-road)",
+      "category": "Fuel",
+      "category_key": "fuel",
+      "manufacturer": "Marathon Petroleum (via Sun Coast Resources)",
+      "revision": "SDS 0290MAR019, Rev 2025-02-12",
+      "status": "On file",
+      "signal": "DANGER",
+      "ghs": [
+        "GHS02",
+        "GHS07",
+        "GHS08"
+      ],
+      "location": "Fleet/equipment",
+      "path": "sds/Fuel/No. 2 Diesel (Marathon via Sun Coast).pdf",
+      "has_pdf": true
+    },
+    {
+      "id": "sds-shelf-star-tron-enzyme-fuel-treatment-gas-formula",
+      "product": "Star Tron Enzyme Fuel Treatment (Gas Formula)",
+      "category": "Fuel",
+      "category_key": "fuel",
+      "manufacturer": "Star brite / Ocean Bio-Chem",
+      "revision": "Version 3.0 (2018-08-06)",
+      "status": "On file",
+      "signal": "Warning",
+      "ghs": [
+        "GHS02",
+        "GHS01"
+      ],
+      "location": "Fleet / small engines",
+      "path": "sds/General/Star Tron Enzyme Fuel Treatment - Gas (Star brite).pdf",
+      "has_pdf": true
+    },
+    {
+      "id": "sds-shelf-unleaded-gasoline-all-grades",
+      "product": "Unleaded Gasoline (All Grades)",
+      "category": "Fuel",
+      "category_key": "fuel",
+      "manufacturer": "Marathon Petroleum (via Sun Coast Resources)",
+      "revision": "SDS 0127MAR019, Rev 2026-02-12",
+      "status": "On file",
+      "signal": "DANGER",
+      "ghs": [
+        "GHS02",
+        "GHS07",
+        "GHS08"
+      ],
+      "location": "Fleet/equipment",
+      "path": "sds/Fuel/Gasoline - All Grades (Marathon via Sun Coast).pdf",
+      "has_pdf": true
+    },
+    {
+      "id": "sds-welding-acetylene",
+      "product": "Acetylene, Dissolved (UN1001)",
+      "category": "Gas",
+      "category_key": "gas",
+      "manufacturer": "MATHESON Tri-Gas, Inc.",
+      "revision": "Rev 7.0 (2022-01-04)",
+      "status": "On file",
+      "signal": "Danger",
+      "ghs": [
+        "GHS02",
+        "GHS04"
+      ],
+      "location": "Welding/cutting",
+      "path": "sds/Welding/Acetylene (Matheson).pdf",
+      "has_pdf": true
+    },
+    {
+      "id": "sds-welding-argon",
+      "product": "Argon, Compressed (UN1006)",
+      "category": "Gas",
+      "category_key": "gas",
+      "manufacturer": "MATHESON Tri-Gas, Inc.",
+      "revision": "Rev 7.0 (2022-01-04)",
+      "status": "On file",
+      "signal": "Warning",
+      "ghs": [
+        "GHS04"
+      ],
+      "location": "Welding bays",
+      "path": "sds/Welding/Argon Compressed (Matheson).pdf",
+      "has_pdf": true
+    },
+    {
+      "id": "sds-welding-argon-co2-75-25",
+      "product": "C25 — 75% Argon / 25% CO2 (shielding gas)",
+      "category": "Gas",
+      "category_key": "gas",
+      "manufacturer": "Western International Gas & Cyl., Inc.",
+      "revision": "Rev 5.0 (2022-01-04)",
+      "status": "On file",
+      "signal": "Warning",
+      "ghs": [
+        "GHS04"
+      ],
+      "location": "Welding bays",
+      "path": "sds/Welding/Argon-CO2 75-25 Mix (Western Intl Gas).pdf",
+      "has_pdf": true
+    },
+    {
+      "id": "sds-welding-carbon-dioxide",
+      "product": "Carbon Dioxide, Gas (UN1013)",
+      "category": "Gas",
+      "category_key": "gas",
+      "manufacturer": "MATHESON Tri-Gas, Inc.",
+      "revision": "Rev 8.0 (2022-01-04)",
+      "status": "On file",
+      "signal": "Warning",
+      "ghs": [
+        "GHS04"
+      ],
+      "location": "Welding bays",
+      "path": "sds/Welding/Carbon Dioxide (Matheson).pdf",
+      "has_pdf": true
+    },
+    {
+      "id": "sds-welding-oxygen",
+      "product": "Oxygen, Compressed (cylinder, UN1072)",
+      "category": "Gas",
+      "category_key": "gas",
+      "manufacturer": "MATHESON Tri-Gas, Inc.",
+      "revision": "Rev 12.0 (2022-01-04)",
+      "status": "On file",
+      "signal": "Danger",
+      "ghs": [
+        "GHS03",
+        "GHS04"
+      ],
+      "location": "Welding/cutting",
       "path": "sds/Welding/Oxygen Compressed (Matheson).pdf",
-      "has_text": false
+      "has_pdf": true
     },
     {
-      "product": "Propane (Matheson)",
-      "manufacturer": "Matheson",
-      "category": "Welding",
-      "revision": "",
+      "id": "sds-welding-propane",
+      "product": "Propane / LPG (UN1978)",
+      "category": "Gas",
+      "category_key": "gas",
+      "manufacturer": "MATHESON Tri-Gas, Inc.",
+      "revision": "Rev 9.0 (2022-01-04)",
+      "status": "On file",
+      "signal": "Danger",
+      "ghs": [
+        "GHS02",
+        "GHS04"
+      ],
+      "location": "Cutting/heating",
       "path": "sds/Welding/Propane (Matheson).pdf",
-      "has_text": false
+      "has_pdf": true
     },
     {
-      "product": "Stainless Welding Wire ER308L (Welding Material Sales)",
-      "manufacturer": "Welding Material Sales",
-      "category": "Welding",
-      "revision": "",
-      "path": "sds/Welding/Stainless Welding Wire ER308L (Welding Material Sales).pdf",
-      "has_text": true
+      "id": "sds-shelf-crc-battery-cleaner-with-acid-indicator-05023",
+      "product": "CRC Battery Cleaner with Acid Indicator (05023)",
+      "category": "Maintenance / lube",
+      "category_key": "maintenance",
+      "manufacturer": "CRC Industries, Inc.",
+      "revision": "Version 01 (2021-06-08)",
+      "status": "On file",
+      "signal": "Warning",
+      "ghs": [
+        "GHS02",
+        "GHS07"
+      ],
+      "location": "Fleet / shop",
+      "path": "sds/General/CRC Battery Cleaner 05023.pdf",
+      "has_pdf": true
     },
     {
-      "product": "Viking ER70S-6 MIG Wire (Davis Wire)",
-      "manufacturer": "Davis Wire",
-      "category": "Welding",
-      "revision": "",
-      "path": "sds/Welding/Viking ER70S-6 MIG Wire (Davis Wire).pdf",
-      "has_text": true
+      "id": "sds-shelf-perfectstop-non-chlorinated-brake-cleaner-0265-0735",
+      "product": "PerfectStop Non-Chlorinated Brake Cleaner (#0265 / #0735)",
+      "category": "Maintenance / lube",
+      "category_key": "maintenance",
+      "manufacturer": "The Penray Companies, Inc.",
+      "revision": "Version 1.0 (2014-03-31)",
+      "status": "On file",
+      "signal": "Danger",
+      "ghs": [
+        "GHS02",
+        "GHS07",
+        "GHS08"
+      ],
+      "location": "Maintenance",
+      "path": "sds/General/PerfectStop Non-Chlorinated Brake Cleaner (Penray 0735).pdf",
+      "has_pdf": true
     },
     {
-      "product": "Washington Alloy Carbon Steel Electrodes SDS (AWS A5.1, 2019)",
-      "manufacturer": "AWS A5.1, 2019",
-      "category": "Welding",
-      "revision": "",
+      "id": "sds-shelf-schaeffer-s-205a-full-synthetic-atf-dexron-vi-mercon-lv",
+      "product": "Schaeffer's #205A Full-Synthetic ATF (Dexron VI / Mercon LV)",
+      "category": "Maintenance / lube",
+      "category_key": "maintenance",
+      "manufacturer": "Schaeffer Mfg. Company",
+      "revision": "SDS 205A (Schaeffer)",
+      "status": "On file",
+      "signal": "None",
+      "ghs": [],
+      "location": "Maintenance / fleet",
+      "path": "sds/General/Schaeffer 205A Full-Synthetic ATF.pdf",
+      "has_pdf": true
+    },
+    {
+      "id": "sds-shelf-krud-kutter-metal-clean-etch",
+      "product": "Krud Kutter Metal Clean & Etch",
+      "category": "Metal prep",
+      "category_key": "metal-prep",
+      "manufacturer": "Rust-Oleum Corporation",
+      "revision": "Rev 2022-07-27",
+      "status": "On file",
+      "signal": "Warning",
+      "ghs": [
+        "GHS07"
+      ],
+      "location": "Paint prep / fabrication",
+      "path": "sds/General/Krud Kutter Metal Clean & Etch (Rust-Oleum).pdf",
+      "has_pdf": true
+    },
+    {
+      "id": "sds-shelf-sunnyside-m1-gloss-remover",
+      "product": "M-1 Gloss Remover",
+      "category": "Metal prep",
+      "category_key": "metal-prep",
+      "manufacturer": "Sunnyside Corporation",
+      "revision": "Revision 3",
+      "status": "Verify",
+      "signal": "Danger",
+      "ghs": [
+        "GHS05"
+      ],
+      "location": "Paint shop",
+      "path": "sds/Paint Area/M-1 Gloss Remover.pdf",
+      "has_pdf": true
+    },
+    {
+      "id": "sds-paint-area-7543402-safety-yellow-pdf",
+      "product": "7543402 Safety Yellow",
+      "category": "Paint / coating",
+      "category_key": "paint",
+      "manufacturer": "Rust-Oleum",
+      "revision": "2022/10/14",
+      "status": "On file",
+      "signal": "Danger",
+      "ghs": [
+        "GHS02",
+        "GHS07",
+        "GHS08"
+      ],
+      "location": "Paint shop",
+      "path": "sds/Paint Area/7543402 Safety Yellow.pdf",
+      "has_pdf": true
+    },
+    {
+      "id": "sds-paint-sw-dtm-bonding-primer-off-white",
+      "product": "DTM Bonding Primer, Off White",
+      "category": "Paint / coating",
+      "category_key": "paint",
+      "manufacturer": "The Sherwin-Williams Company",
+      "revision": "Version 34",
+      "status": "Verify",
+      "signal": "Danger",
+      "ghs": [
+        "GHS07",
+        "GHS08"
+      ],
+      "location": "Paint shop",
+      "path": "sds/Paint Area/DTM Bonding Primer.pdf",
+      "has_pdf": true
+    },
+    {
+      "id": "sds-paint-sw-industrial-enamel-safety-yellow",
+      "product": "Industrial Enamel, Safety Yellow",
+      "category": "Paint / coating",
+      "category_key": "paint",
+      "manufacturer": "The Sherwin-Williams Company",
+      "revision": "Version 10.03",
+      "status": "Verify",
+      "signal": "Danger",
+      "ghs": [
+        "GHS02",
+        "GHS07",
+        "GHS08",
+        "GHS09"
+      ],
+      "location": "Paint shop",
+      "path": "sds/Paint Area/Industrial Enamel - Safety Yellow.pdf",
+      "has_pdf": true
+    },
+    {
+      "id": "sds-paint-sw-kem400-primer-gray",
+      "product": "KEM 400 Primer, Gray",
+      "category": "Paint / coating",
+      "category_key": "paint",
+      "manufacturer": "The Sherwin-Williams Company",
+      "revision": "Version 31.01",
+      "status": "Verify",
+      "signal": "Danger",
+      "ghs": [
+        "GHS02",
+        "GHS07",
+        "GHS08"
+      ],
+      "location": "Paint shop",
+      "path": "sds/Paint Area/KEM® 400 Primer Gray.pdf",
+      "has_pdf": true
+    },
+    {
+      "id": "sds-paint-area-pro-ind-gloss-black-pdf",
+      "product": "Pro Ind Gloss Black",
+      "category": "Paint / coating",
+      "category_key": "paint",
+      "manufacturer": "Sherwin-Williams",
+      "revision": "[verify]",
+      "status": "On file",
+      "signal": "",
+      "ghs": [],
+      "location": "Paint shop",
+      "path": "sds/Paint Area/Pro Ind Gloss Black.pdf",
+      "has_pdf": true
+    },
+    {
+      "id": "sds-paint-area-pro-ind-pure-white-pdf",
+      "product": "Pro Ind Pure White",
+      "category": "Paint / coating",
+      "category_key": "paint",
+      "manufacturer": "Sherwin-Williams",
+      "revision": "[verify]",
+      "status": "On file",
+      "signal": "",
+      "ghs": [],
+      "location": "Paint shop",
+      "path": "sds/Paint Area/Pro Ind Pure White.pdf",
+      "has_pdf": true
+    },
+    {
+      "id": "sds-paint-area-pro-ind-safety-yellow-pdf",
+      "product": "Pro Ind Safety Yellow",
+      "category": "Paint / coating",
+      "category_key": "paint",
+      "manufacturer": "Sherwin-Williams",
+      "revision": "[verify]",
+      "status": "On file",
+      "signal": "",
+      "ghs": [],
+      "location": "Paint shop",
+      "path": "sds/Paint Area/Pro Ind Safety Yellow.pdf",
+      "has_pdf": true
+    },
+    {
+      "id": "sds-paint-sw-steelspec-primer-gray",
+      "product": "Steel Spec 1003 Structural Steel Primer, Gray",
+      "category": "Paint / coating",
+      "category_key": "paint",
+      "manufacturer": "The Sherwin-Williams Company",
+      "revision": "Version 37.01",
+      "status": "Verify",
+      "signal": "Danger",
+      "ghs": [
+        "GHS02",
+        "GHS07",
+        "GHS08"
+      ],
+      "location": "Paint shop",
+      "path": "sds/Paint Area/Steel Spec® 1003 Shopcoat Primer Gray.pdf",
+      "has_pdf": true
+    },
+    {
+      "id": "sds-shelf-klean-strip-acetone",
+      "product": "Klean-Strip Acetone",
+      "category": "Solvent",
+      "category_key": "solvent",
+      "manufacturer": "W.M. Barr & Co. (Klean-Strip)",
+      "revision": "Rev 2019-06-26",
+      "status": "On file",
+      "signal": "Danger",
+      "ghs": [
+        "GHS02",
+        "GHS07"
+      ],
+      "location": "Paint shop / cleanup",
+      "path": "sds/General/Klean-Strip Acetone (WM Barr).pdf",
+      "has_pdf": true
+    },
+    {
+      "id": "sds-paint-sw-lacquer-thinner-r7k119",
+      "product": "R7K119 Lacquer Thinner",
+      "category": "Solvent",
+      "category_key": "solvent",
+      "manufacturer": "The Sherwin-Williams Company",
+      "revision": "Version 23",
+      "status": "Verify",
+      "signal": "Danger",
+      "ghs": [
+        "GHS02",
+        "GHS07",
+        "GHS08"
+      ],
+      "location": "Paint shop",
+      "path": "sds/Paint Area/K119 Lacquer Thinner.pdf",
+      "has_pdf": true
+    },
+    {
+      "id": "sds-paint-area-sw-mineral-spirits-pdf",
+      "product": "SW Mineral Spirits",
+      "category": "Solvent",
+      "category_key": "solvent",
+      "manufacturer": "Sherwin-Williams",
+      "revision": "Version 11.01",
+      "status": "Verify",
+      "signal": "Danger",
+      "ghs": [
+        "GHS02",
+        "GHS08"
+      ],
+      "location": "Paint shop",
+      "path": "sds/Paint Area/SW Mineral Spirits.pdf",
+      "has_pdf": true
+    },
+    {
+      "id": "sds-paint-area-sw-xylene-pdf",
+      "product": "SW Xylene",
+      "category": "Solvent",
+      "category_key": "solvent",
+      "manufacturer": "Sherwin-Williams",
+      "revision": "Version 12",
+      "status": "Verify",
+      "signal": "Danger",
+      "ghs": [
+        "GHS02",
+        "GHS07",
+        "GHS08"
+      ],
+      "location": "Paint shop",
+      "path": "sds/Paint Area/SW Xylene.pdf",
+      "has_pdf": true
+    },
+    {
+      "id": "sds-paint-thompsons-waterseal-clear-wood-sealer",
+      "product": "Thompson's WaterSeal Clear Wood Protector Sealer",
+      "category": "Solvent",
+      "category_key": "solvent",
+      "manufacturer": "The Thompson's Company (Sherwin-Williams)",
+      "revision": "Version 12",
+      "status": "Verify",
+      "signal": "Danger",
+      "ghs": [
+        "GHS07",
+        "GHS08"
+      ],
+      "location": "Paint shop",
+      "path": "sds/Paint Area/THOMPSON'S® US Signature Series Clear Wood Protector Sealer.pdf",
+      "has_pdf": true
+    },
+    {
+      "id": "sds-welding-washington-alloy-e6010",
+      "product": "Washington Alloy E6010 Stick Electrode",
+      "category": "Stick electrode",
+      "category_key": "electrode",
+      "manufacturer": "Washington Alloy Company (U.S. Alloy Co.)",
+      "revision": "Rev 2019 (AWS A5.1)",
+      "status": "On file",
+      "signal": "None (article)",
+      "ghs": [],
+      "location": "Welding bays",
       "path": "sds/Welding/Washington Alloy Carbon Steel Electrodes SDS (AWS A5.1, 2019).pdf",
-      "has_text": true
+      "has_pdf": true
     },
     {
-      "product": "Washington Alloy E6010 (CoC)",
-      "manufacturer": "CoC",
-      "category": "Welding",
-      "revision": "",
-      "path": "sds/Welding/Washington Alloy E6010 (CoC).pdf",
-      "has_text": true
+      "id": "sds-welding-washington-alloy-e6011",
+      "product": "Washington Alloy E6011 Stick Electrode",
+      "category": "Stick electrode",
+      "category_key": "electrode",
+      "manufacturer": "Washington Alloy Company (U.S. Alloy Co.)",
+      "revision": "Rev 2019 (AWS A5.1)",
+      "status": "On file",
+      "signal": "None (article)",
+      "ghs": [],
+      "location": "Welding bays",
+      "path": "sds/Welding/Washington Alloy Carbon Steel Electrodes SDS (AWS A5.1, 2019).pdf",
+      "has_pdf": true
     },
     {
-      "product": "Washington Alloy E6011 (CoC)",
-      "manufacturer": "CoC",
-      "category": "Welding",
-      "revision": "",
-      "path": "sds/Welding/Washington Alloy E6011 (CoC).pdf",
-      "has_text": true
+      "id": "sds-welding-washington-alloy-e7018",
+      "product": "Washington Alloy E7018-1 Stick Electrode",
+      "category": "Stick electrode",
+      "category_key": "electrode",
+      "manufacturer": "Washington Alloy Company (U.S. Alloy Co.)",
+      "revision": "Rev 2019 (AWS A5.1)",
+      "status": "On file",
+      "signal": "Warning",
+      "ghs": [
+        "GHS06"
+      ],
+      "location": "Welding bays",
+      "path": "sds/Welding/Washington Alloy Carbon Steel Electrodes SDS (AWS A5.1, 2019).pdf",
+      "has_pdf": true
     },
     {
-      "product": "Washington Alloy E7018-1 (CoC)",
-      "manufacturer": "CoC",
-      "category": "Welding",
-      "revision": "",
-      "path": "sds/Welding/Washington Alloy E7018-1 (CoC).pdf",
-      "has_text": true
+      "id": "sds-welding-er308l-wms",
+      "product": "ER308L Stainless Welding Wire (GMAW/GTAW)",
+      "category": "Welding wire",
+      "category_key": "wire",
+      "manufacturer": "Welding Material Sales",
+      "revision": "SDS #901, Rev 8/2018 (reviewed 7/2020)",
+      "status": "On file",
+      "signal": "Warning",
+      "ghs": [
+        "GHS06"
+      ],
+      "location": "Welding bays",
+      "path": "sds/Welding/Stainless Welding Wire ER308L (Welding Material Sales).pdf",
+      "has_pdf": true
+    },
+    {
+      "id": "sds-welding-lincoln-ultracore-71a85",
+      "product": "Lincoln UltraCore 71A85 Gas-Shielded Flux-Cored Wire (.045\")",
+      "category": "Welding wire",
+      "category_key": "wire",
+      "manufacturer": "The Lincoln Electric Company",
+      "revision": "Rev 2025-04-02",
+      "status": "On file",
+      "signal": "None (article)",
+      "ghs": [],
+      "location": "Welding bays",
+      "path": "sds/Welding/Lincoln UltraCore 71A85 Flux-Cored Wire.pdf",
+      "has_pdf": true
+    },
+    {
+      "id": "sds-welding-viking-er70s6",
+      "product": "Viking ER70S-6 Carbon Steel MIG Wire",
+      "category": "Welding wire",
+      "category_key": "wire",
+      "manufacturer": "Davis Wire / DW-National Standard",
+      "revision": "Apr 2016",
+      "status": "On file",
+      "signal": "None (article)",
+      "ghs": [],
+      "location": "Welding bays",
+      "path": "sds/Welding/Viking ER70S-6 MIG Wire (Davis Wire).pdf",
+      "has_pdf": true
     }
   ]
 }
