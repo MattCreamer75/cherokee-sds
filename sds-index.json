@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-22 18:20",
-  "count": 4,
+  "generated": "2026-06-22 18:21",
+  "count": 16,
   "items": [
     {
       "product": "No Rinse Neutral pH Floor Cleaner",
@@ -32,6 +32,102 @@
       "category": "Fuel",
       "revision": "02/12/2025",
       "path": "sds/Fuel/No. 2 Diesel (Marathon via Sun Coast).pdf",
+      "has_text": true
+    },
+    {
+      "product": "CRC Battery Cleaner 05023",
+      "manufacturer": "CRC Industries, Inc",
+      "category": "General",
+      "revision": "06-08-2021",
+      "path": "sds/General/CRC Battery Cleaner 05023.pdf",
+      "has_text": true
+    },
+    {
+      "product": "CRC Cutting Oil 14050",
+      "manufacturer": "CRC Industries, Inc",
+      "category": "General",
+      "revision": "11-20-2020",
+      "path": "sds/General/CRC Cutting Oil 14050.pdf",
+      "has_text": true
+    },
+    {
+      "product": "CRC Foaming Coil Cleaner",
+      "manufacturer": "CRC Industries, Inc",
+      "category": "General",
+      "revision": "10-07-2020",
+      "path": "sds/General/CRC Foaming Coil Cleaner (03196).pdf",
+      "has_text": true
+    },
+    {
+      "product": "DAP 100pct Silicone Sealant",
+      "manufacturer": "",
+      "category": "General",
+      "revision": "4/12/2022",
+      "path": "sds/General/DAP 100pct Silicone Sealant.pdf",
+      "has_text": true
+    },
+    {
+      "product": "DG Home Window Cleaner (Sun-Pine)",
+      "manufacturer": "Sun-Pine",
+      "category": "General",
+      "revision": "1-Jan-2019",
+      "path": "sds/General/DG Home Window Cleaner (Sun-Pine).pdf",
+      "has_text": true
+    },
+    {
+      "product": "Dymon THE End Wasp & Hornet Killer (Grainger 237567)",
+      "manufacturer": "Grainger 237567",
+      "category": "General",
+      "revision": "06-11-2018",
+      "path": "sds/General/Dymon THE End Wasp & Hornet Killer (Grainger 237567).pdf",
+      "has_text": true
+    },
+    {
+      "product": "Klean-Strip Acetone (WM Barr)",
+      "manufacturer": "WM Barr",
+      "category": "General",
+      "revision": "06/26/2019",
+      "path": "sds/General/Klean-Strip Acetone (WM Barr).pdf",
+      "has_text": true
+    },
+    {
+      "product": "Krud Kutter Metal Clean & Etch (Rust-Oleum)",
+      "manufacturer": "Rust-Oleum",
+      "category": "General",
+      "revision": "7/27/2022",
+      "path": "sds/General/Krud Kutter Metal Clean & Etch (Rust-Oleum).pdf",
+      "has_text": true
+    },
+    {
+      "product": "PerfectStop Non-Chlorinated Brake Cleaner (Penray 0735)",
+      "manufacturer": "Penray 0735",
+      "category": "General",
+      "revision": "03/31/2014",
+      "path": "sds/General/PerfectStop Non-Chlorinated Brake Cleaner (Penray 0735).pdf",
+      "has_text": true
+    },
+    {
+      "product": "Relton New Rapid Tap (Cutting Fluid)",
+      "manufacturer": "Cutting Fluid",
+      "category": "General",
+      "revision": "",
+      "path": "sds/General/Relton New Rapid Tap (Cutting Fluid).pdf",
+      "has_text": true
+    },
+    {
+      "product": "Schaeffer 205A Full-Synthetic ATF",
+      "manufacturer": "",
+      "category": "General",
+      "revision": "",
+      "path": "sds/General/Schaeffer 205A Full-Synthetic ATF.pdf",
+      "has_text": true
+    },
+    {
+      "product": "Star Tron Enzyme Fuel Treatment - Gas (Star brite)",
+      "manufacturer": "Star brite",
+      "category": "General",
+      "revision": "08/06/2018",
+      "path": "sds/General/Star Tron Enzyme Fuel Treatment - Gas (Star brite).pdf",
       "has_text": true
     }
   ]
