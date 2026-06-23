@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-23 18:12",
-  "count": 54,
+  "generated": "2026-06-23 20:21",
+  "count": 84,
   "categories": [
     "Adhesive / sealant",
     "Aerosol",
@@ -34,6 +34,25 @@
       "has_pdf": true
     },
     {
+      "id": "sds-photoref-crc-3-36-multi-purpose-lubricant-corrosion-inhib",
+      "product": "CRC 3-36 Multi-Purpose Lubricant & Corrosion Inhibitor",
+      "category": "Aerosol",
+      "category_key": "aerosol",
+      "manufacturer": "CRC Industries, Inc.",
+      "revision": "2013-11-11 (confirm current)",
+      "status": "On file",
+      "signal": "Danger",
+      "ghs": [
+        "GHS02",
+        "GHS04",
+        "GHS07",
+        "GHS08"
+      ],
+      "location": "Shop",
+      "path": "sds/Added/CRC 3-36 Multi-Purpose Lubricant & Corrosion Inhibitor.pdf",
+      "has_pdf": true
+    },
+    {
       "id": "sds-welding-crc-anti-spatter",
       "product": "CRC Anti-Spatter (Aerosol)",
       "category": "Aerosol",
@@ -48,6 +67,23 @@
       "location": "Welding bays",
       "path": "sds/Welding/CRC Anti-Spatter (SDS 32318).pdf",
       "has_pdf": true
+    },
+    {
+      "id": "sds-photoref-k-n-air-filter-oil-aerosol-recharger-kit-11330",
+      "product": "K&N Air Filter Oil Aerosol (Recharger Kit 11330)",
+      "category": "Aerosol",
+      "category_key": "aerosol",
+      "manufacturer": "K&N Engineering, Inc.",
+      "revision": "1.0 (2017-01-20)",
+      "status": "Verify",
+      "signal": "Danger",
+      "ghs": [
+        "GHS02",
+        "GHS08"
+      ],
+      "location": "Shop",
+      "path": "",
+      "has_pdf": false
     },
     {
       "id": "sds-paint-krylon-covermaxx-leather-brown",
@@ -219,6 +255,24 @@
       "has_pdf": true
     },
     {
+      "id": "sds-photoref-weld-aid-york-107a-mig-anti-spatter",
+      "product": "Weld-Aid York 107A+ MIG Anti-Spatter",
+      "category": "Aerosol",
+      "category_key": "aerosol",
+      "manufacturer": "Weld-Aid Products",
+      "revision": "2017-08-29",
+      "status": "Verify",
+      "signal": "Danger",
+      "ghs": [
+        "GHS02",
+        "GHS04",
+        "GHS07"
+      ],
+      "location": "Shop",
+      "path": "",
+      "has_pdf": false
+    },
+    {
       "id": "sds-shelf-coil-cleaner-foaming-solvent-brand-unresolved",
       "product": "CRC Foaming Coil Cleaner (No. 03196)",
       "category": "Cleaner",
@@ -320,6 +374,20 @@
       "has_pdf": true
     },
     {
+      "id": "sds-photoref-oatey-clear-cutting-oil",
+      "product": "Oatey Clear Cutting Oil",
+      "category": "Cutting fluid",
+      "category_key": "cutting-fluid",
+      "manufacturer": "Oatey Co.",
+      "revision": "2015-05-12",
+      "status": "Verify",
+      "signal": "",
+      "ghs": [],
+      "location": "Shop",
+      "path": "",
+      "has_pdf": false
+    },
+    {
       "id": "sds-shelf-relton-new-rapid-tap-heavy-duty-cutting-fluid",
       "product": "Relton New Rapid Tap (Heavy-Duty Cutting Fluid)",
       "category": "Cutting fluid",
@@ -333,6 +401,25 @@
       ],
       "location": "Fabrication",
       "path": "sds/General/Relton New Rapid Tap (Cutting Fluid).pdf",
+      "has_pdf": true
+    },
+    {
+      "id": "sds-photoref-chevron-regular-unleaded-gasoline",
+      "product": "Chevron Regular Unleaded Gasoline",
+      "category": "Fuel",
+      "category_key": "fuel",
+      "manufacturer": "Chevron U.S.A. Inc.",
+      "revision": "Rev 2 (2016-03-10)",
+      "status": "On file",
+      "signal": "Danger",
+      "ghs": [
+        "GHS02",
+        "GHS07",
+        "GHS08",
+        "GHS09"
+      ],
+      "location": "Shop",
+      "path": "sds/Added/Chevron Regular Unleaded Gasoline.pdf",
       "has_pdf": true
     },
     {
@@ -454,6 +541,24 @@
       "has_pdf": true
     },
     {
+      "id": "sds-photoref-hydrogen-in-argon-3-h2-shielding-gas-mix",
+      "product": "Hydrogen in Argon (>3% H2) Shielding Gas Mix",
+      "category": "Gas",
+      "category_key": "gas",
+      "manufacturer": "MATHESON Tri-Gas, Inc.",
+      "revision": "4.0 (2020-07-10)",
+      "status": "Verify",
+      "signal": "Danger",
+      "ghs": [
+        "GHS02",
+        "GHS04",
+        "GHS07"
+      ],
+      "location": "Shop",
+      "path": "",
+      "has_pdf": false
+    },
+    {
       "id": "sds-welding-oxygen",
       "product": "Oxygen, Compressed (cylinder, UN1072)",
       "category": "Gas",
@@ -505,6 +610,39 @@
       "has_pdf": true
     },
     {
+      "id": "sds-photoref-loctite-lb-771-nickel-anti-seize",
+      "product": "Loctite LB 771 Nickel Anti-Seize",
+      "category": "Maintenance / lube",
+      "category_key": "maintenance",
+      "manufacturer": "Henkel Corporation",
+      "revision": "2014-08-28 (confirm current)",
+      "status": "Verify",
+      "signal": "Warning",
+      "ghs": [
+        "GHS07",
+        "GHS08"
+      ],
+      "location": "Shop",
+      "path": "",
+      "has_pdf": false
+    },
+    {
+      "id": "sds-photoref-lucas-red-n-tacky-nlgi-2-grease",
+      "product": "Lucas Red 'N' Tacky NLGI #2 Grease",
+      "category": "Maintenance / lube",
+      "category_key": "maintenance",
+      "manufacturer": "Lucas Oil Products, Inc.",
+      "revision": "(confirm current)",
+      "status": "Verify",
+      "signal": "Danger",
+      "ghs": [
+        "GHS05"
+      ],
+      "location": "Shop",
+      "path": "",
+      "has_pdf": false
+    },
+    {
       "id": "sds-shelf-perfectstop-non-chlorinated-brake-cleaner-0265-0735",
       "product": "PerfectStop Non-Chlorinated Brake Cleaner (#0265 / #0735)",
       "category": "Maintenance / lube",
@@ -535,6 +673,20 @@
       "location": "Maintenance / fleet",
       "path": "sds/General/Schaeffer 205A Full-Synthetic ATF.pdf",
       "has_pdf": true
+    },
+    {
+      "id": "sds-photoref-super-s-super-trac-303-tractor-hydraulic-fluid",
+      "product": "Super S Super-Trac 303 Tractor Hydraulic Fluid",
+      "category": "Maintenance / lube",
+      "category_key": "maintenance",
+      "manufacturer": "Smitty's Supply, Inc.",
+      "revision": "HYDFLD-001 (2015)",
+      "status": "Verify",
+      "signal": "",
+      "ghs": [],
+      "location": "Shop",
+      "path": "",
+      "has_pdf": false
     },
     {
       "id": "sds-added-wd-40-mqqwmeu8",
@@ -587,6 +739,37 @@
       "has_pdf": true
     },
     {
+      "id": "sds-photoref-calcium-stearate",
+      "product": "Calcium Stearate",
+      "category": "Other",
+      "category_key": "other",
+      "manufacturer": "Faci USA Industrial, Inc. (FILI Group)",
+      "revision": "1.0 (2018-11-05)",
+      "status": "On file",
+      "signal": "None",
+      "ghs": [],
+      "location": "Shop",
+      "path": "sds/Added/Calcium Stearate.pdf",
+      "has_pdf": true
+    },
+    {
+      "id": "sds-photoref-clearco-c-5-anti-spatter-liquid",
+      "product": "Clearco C-5 Anti-Spatter (Liquid)",
+      "category": "Other",
+      "category_key": "other",
+      "manufacturer": "Clearco Products Co., Inc.",
+      "revision": "2015-08-11",
+      "status": "On file",
+      "signal": "Danger",
+      "ghs": [
+        "GHS07",
+        "GHS08"
+      ],
+      "location": "Shop",
+      "path": "sds/Added/Clearco C-5 Anti-Spatter (Liquid).pdf",
+      "has_pdf": true
+    },
+    {
       "id": "sds-added-commercial-abc-dry-chemical-fire-extinguisher-mqqyeo97",
       "product": "Commercial  ABC Dry Chemical  Fire Extinguisher",
       "category": "Other",
@@ -603,6 +786,55 @@
       "has_pdf": true
     },
     {
+      "id": "sds-photoref-custom-brand-antifreeze-coolant-prime",
+      "product": "Custom Brand Antifreeze / Coolant (Prime)",
+      "category": "Other",
+      "category_key": "other",
+      "manufacturer": "Honeywell Consumer Products (Shamrock Chicago)",
+      "revision": "2005 MSDS (confirm current)",
+      "status": "On file",
+      "signal": "Warning",
+      "ghs": [
+        "GHS07",
+        "GHS08"
+      ],
+      "location": "Shop",
+      "path": "sds/Added/Custom Brand Antifreeze   Coolant (Prime).pdf",
+      "has_pdf": true
+    },
+    {
+      "id": "sds-photoref-krystal-kleer-25f-windshield-washer-fluid",
+      "product": "Krystal Kleer -25F Windshield Washer Fluid",
+      "category": "Other",
+      "category_key": "other",
+      "manufacturer": "SouthWin, Ltd.",
+      "revision": "2015-03-27",
+      "status": "Verify",
+      "signal": "Danger",
+      "ghs": [
+        "GHS02",
+        "GHS07",
+        "GHS08"
+      ],
+      "location": "Shop",
+      "path": "",
+      "has_pdf": false
+    },
+    {
+      "id": "sds-photoref-super-s-diesel-exhaust-fluid-def",
+      "product": "Super S Diesel Exhaust Fluid (DEF)",
+      "category": "Other",
+      "category_key": "other",
+      "manufacturer": "Smitty's Supply, Inc.",
+      "revision": "DEF-001 (2012)",
+      "status": "Verify",
+      "signal": "",
+      "ghs": [],
+      "location": "Shop",
+      "path": "",
+      "has_pdf": false
+    },
+    {
       "id": "sds-welding-washington-alloy-e6010-coc-pdf",
       "product": "Washington Alloy E6010 (CoC)",
       "category": "Other",
@@ -613,6 +845,20 @@
       "signal": "None",
       "ghs": [],
       "location": "",
+      "path": "",
+      "has_pdf": false
+    },
+    {
+      "id": "sds-photoref-zinc-stearate-non-dusting",
+      "product": "Zinc Stearate (Non-Dusting)",
+      "category": "Other",
+      "category_key": "other",
+      "manufacturer": "Faci USA Industrial, Inc. (FILI Group)",
+      "revision": "1.0 (2020-03-18)",
+      "status": "Verify",
+      "signal": "",
+      "ghs": [],
+      "location": "Shop",
       "path": "",
       "has_pdf": false
     },
@@ -641,7 +887,7 @@
       "category_key": "paint",
       "manufacturer": "The Sherwin-Williams Company",
       "revision": "Version 34",
-      "status": "Verify",
+      "status": "On file",
       "signal": "Danger",
       "ghs": [
         "GHS07",
@@ -649,6 +895,24 @@
       ],
       "location": "Paint shop",
       "path": "sds/Paint Area/SW DTM Bonding Primer Off White (B66A50).pdf",
+      "has_pdf": true
+    },
+    {
+      "id": "sds-photoref-dupli-color-bed-armor-truck-bed-coating",
+      "product": "Dupli-Color Bed Armor Truck Bed Coating",
+      "category": "Paint / coating",
+      "category_key": "paint",
+      "manufacturer": "Dupli-Color / Sherwin-Williams",
+      "revision": "(confirm current)",
+      "status": "On file",
+      "signal": "Danger",
+      "ghs": [
+        "GHS02",
+        "GHS07",
+        "GHS08"
+      ],
+      "location": "Shop",
+      "path": "sds/Added/Dupli-Color Bed Armor Truck Bed Coating.pdf",
       "has_pdf": true
     },
     {
@@ -836,6 +1100,115 @@
       "has_pdf": true
     },
     {
+      "id": "sds-photoref-arcair-air-carbon-arc-gouging-electrodes-wmk-ser",
+      "product": "Arcair Air Carbon-Arc Gouging Electrodes (WMK series)",
+      "category": "Stick electrode",
+      "category_key": "electrode",
+      "manufacturer": "Victor Technologies / Arcair",
+      "revision": "2013-07-02",
+      "status": "On file",
+      "signal": "Warning",
+      "ghs": [
+        "GHS07",
+        "GHS08"
+      ],
+      "location": "Shop",
+      "path": "sds/Added/Arcair Air Carbon-Arc Gouging Electrodes (WMK series).pdf",
+      "has_pdf": true
+    },
+    {
+      "id": "sds-photoref-ck-worldwide-tungsten-electrodes-tig",
+      "product": "CK Worldwide Tungsten Electrodes (TIG)",
+      "category": "Stick electrode",
+      "category_key": "electrode",
+      "manufacturer": "CK Worldwide, Inc.",
+      "revision": "(confirm current)",
+      "status": "On file",
+      "signal": "Danger",
+      "ghs": [
+        "GHS07",
+        "GHS08",
+        "GHS09"
+      ],
+      "location": "Shop",
+      "path": "sds/Added/CK Worldwide Tungsten Electrodes (TIG).pdf",
+      "has_pdf": true
+    },
+    {
+      "id": "sds-photoref-hobart-7018-smaw-stick-electrodes",
+      "product": "Hobart 7018 SMAW Stick Electrodes",
+      "category": "Stick electrode",
+      "category_key": "electrode",
+      "manufacturer": "Hobart Brothers Company (ITW)",
+      "revision": "(confirm current)",
+      "status": "Verify",
+      "signal": "",
+      "ghs": [],
+      "location": "Shop",
+      "path": "",
+      "has_pdf": false
+    },
+    {
+      "id": "sds-photoref-lincoln-electric-excalibur-7018-mr-e7018-stick-e",
+      "product": "Lincoln Electric Excalibur 7018 MR (E7018) Stick Electrode",
+      "category": "Stick electrode",
+      "category_key": "electrode",
+      "manufacturer": "The Lincoln Electric Company",
+      "revision": "2017-09-18",
+      "status": "Verify",
+      "signal": "",
+      "ghs": [],
+      "location": "Shop",
+      "path": "",
+      "has_pdf": false
+    },
+    {
+      "id": "sds-photoref-lincoln-electric-fleetweld-5p-e6010-stick-electr",
+      "product": "Lincoln Electric Fleetweld 5P+ (E6010) Stick Electrode",
+      "category": "Stick electrode",
+      "category_key": "electrode",
+      "manufacturer": "The Lincoln Electric Company",
+      "revision": "2017-09-18",
+      "status": "Verify",
+      "signal": "",
+      "ghs": [],
+      "location": "Shop",
+      "path": "",
+      "has_pdf": false
+    },
+    {
+      "id": "sds-photoref-lincoln-electric-lincoln-7018-e7018-stick-electr",
+      "product": "Lincoln Electric Lincoln 7018 (E7018) Stick Electrode",
+      "category": "Stick electrode",
+      "category_key": "electrode",
+      "manufacturer": "The Lincoln Electric Company",
+      "revision": "2017-09-19",
+      "status": "Verify",
+      "signal": "",
+      "ghs": [],
+      "location": "Shop",
+      "path": "",
+      "has_pdf": false
+    },
+    {
+      "id": "sds-photoref-pinnacle-alloys-stainless-steel-electrodes-e308-",
+      "product": "Pinnacle Alloys Stainless Steel Electrodes (E308/309/316)",
+      "category": "Stick electrode",
+      "category_key": "electrode",
+      "manufacturer": "Pinnacle Alloys (Sowesco I, LLC)",
+      "revision": "Rev 03 (2015)",
+      "status": "Verify",
+      "signal": "Danger",
+      "ghs": [
+        "GHS05",
+        "GHS07",
+        "GHS08"
+      ],
+      "location": "Shop",
+      "path": "",
+      "has_pdf": false
+    },
+    {
       "id": "sds-welding-washington-alloy-e6010",
       "product": "Washington Alloy E6010 Stick Electrode",
       "category": "Stick electrode",
@@ -880,6 +1253,20 @@
       "has_pdf": true
     },
     {
+      "id": "sds-photoref-bohler-avesta-309l-si-stainless-welding-wire",
+      "product": "Bohler Avesta 309L-Si Stainless Welding Wire",
+      "category": "Welding wire",
+      "category_key": "wire",
+      "manufacturer": "voestalpine Bohler Welding",
+      "revision": "1.3 (2016-07-25)",
+      "status": "On file",
+      "signal": "None",
+      "ghs": [],
+      "location": "Shop",
+      "path": "sds/Added/Bohler Avesta 309L-Si Stainless Welding Wire.pdf",
+      "has_pdf": true
+    },
+    {
       "id": "sds-welding-er308l-wms",
       "product": "ER308L Stainless Welding Wire (GMAW/GTAW)",
       "category": "Welding wire",
@@ -896,6 +1283,20 @@
       "has_pdf": true
     },
     {
+      "id": "sds-photoref-hobart-maxal-4043-aluminum-welding-wire-er4043",
+      "product": "Hobart MAXAL 4043 Aluminum Welding Wire (ER4043)",
+      "category": "Welding wire",
+      "category_key": "wire",
+      "manufacturer": "Hobart Brothers Company",
+      "revision": "(confirm current)",
+      "status": "Verify",
+      "signal": "",
+      "ghs": [],
+      "location": "Shop",
+      "path": "",
+      "has_pdf": false
+    },
+    {
       "id": "sds-welding-lincoln-ultracore-71a85",
       "product": "Lincoln UltraCore 71A85 Gas-Shielded Flux-Cored Wire (.045\")",
       "category": "Welding wire",
@@ -910,6 +1311,71 @@
       "has_pdf": true
     },
     {
+      "id": "sds-photoref-national-standard-carbon-steel-welding-wire-ns-1",
+      "product": "National Standard Carbon Steel Welding Wire (NS-115 / NS-102)",
+      "category": "Welding wire",
+      "category_key": "wire",
+      "manufacturer": "National Standard",
+      "revision": "2.0 (2015-11-16)",
+      "status": "Verify",
+      "signal": "",
+      "ghs": [],
+      "location": "Shop",
+      "path": "",
+      "has_pdf": false
+    },
+    {
+      "id": "sds-photoref-pinnacle-alloys-bare-aluminum-welding-electrodes",
+      "product": "Pinnacle Alloys Bare Aluminum Welding Electrodes & Rods (ER4043)",
+      "category": "Welding wire",
+      "category_key": "wire",
+      "manufacturer": "Pinnacle Alloys (Sowesco I, LLC)",
+      "revision": "Rev 03 (2015)",
+      "status": "Verify",
+      "signal": "Warning",
+      "ghs": [
+        "GHS07"
+      ],
+      "location": "Shop",
+      "path": "",
+      "has_pdf": false
+    },
+    {
+      "id": "sds-photoref-pinnacle-alloys-bare-stainless-steel-welding-wir",
+      "product": "Pinnacle Alloys Bare Stainless Steel Welding Wire & Rods (ER308L/309/316)",
+      "category": "Welding wire",
+      "category_key": "wire",
+      "manufacturer": "Pinnacle Alloys (Sowesco I, LLC)",
+      "revision": "Rev 03 (2015)",
+      "status": "Verify",
+      "signal": "Danger",
+      "ghs": [
+        "GHS07",
+        "GHS08"
+      ],
+      "location": "Shop",
+      "path": "",
+      "has_pdf": false
+    },
+    {
+      "id": "sds-photoref-pinnacle-alloys-carbon-steel-welding-rods-er70s-",
+      "product": "Pinnacle Alloys Carbon Steel Welding Rods (ER70S-x)",
+      "category": "Welding wire",
+      "category_key": "wire",
+      "manufacturer": "Pinnacle Alloys (Sowesco I, LLC)",
+      "revision": "Rev 03 (2015)",
+      "status": "Verify",
+      "signal": "Danger",
+      "ghs": [
+        "GHS05",
+        "GHS07",
+        "GHS08"
+      ],
+      "location": "Shop",
+      "path": "",
+      "has_pdf": false
+    },
+    {
       "id": "sds-welding-viking-er70s6",
       "product": "Viking ER70S-6 Carbon Steel MIG Wire",
       "category": "Welding wire",
@@ -922,6 +1388,20 @@
       "location": "Welding bays",
       "path": "sds/Welding/Viking ER70S-6 MIG Wire (Davis Wire).pdf",
       "has_pdf": true
+    },
+    {
+      "id": "sds-photoref-washington-alloy-stainless-steel-welding-wire-er",
+      "product": "Washington Alloy Stainless Steel Welding Wire (ER308L)",
+      "category": "Welding wire",
+      "category_key": "wire",
+      "manufacturer": "Washington Alloy Company",
+      "revision": "(confirm current)",
+      "status": "Verify",
+      "signal": "",
+      "ghs": [],
+      "location": "Shop",
+      "path": "",
+      "has_pdf": false
     }
   ]
 }
