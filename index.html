@@ -53,8 +53,8 @@
   .pill{border-radius:6px;padding:1px 8px;font-weight:600;border:1px solid}
   .pill.ok{background:var(--ok-bg);color:var(--ok-fg);border-color:var(--ok-bd)}
   .pill.vf{background:var(--vf-bg);color:var(--vf-fg);border-color:var(--vf-bd)}
-  .ghs{display:inline-flex;gap:4px;flex-wrap:wrap}
-  .ghschip{font-size:11px;font-weight:600;color:#7a3b12;background:#fbe9dd;border:1px solid #eccab4;border-radius:5px;padding:0 6px}
+  .ghs{display:inline-flex;gap:3px;flex-wrap:wrap;align-items:center}
+  .ghsicon{width:28px;height:28px;display:inline-block;vertical-align:middle}
   .open{margin-left:auto;color:var(--orange);font-weight:700}
   .nopdf-tag{margin-left:auto;color:var(--silver-dark);font-weight:600;font-style:italic}
   mark{background:var(--hit);padding:0 1px;border-radius:3px}
@@ -114,7 +114,7 @@ function render(){
     let status='';
     if(d.status==='On file') status='<span class="pill ok">On file</span>';
     else if(d.status) status='<span class="pill vf">'+esc(d.status)+'</span>';
-    const ghs=(d.ghs&&d.ghs.length)?'<span class="ghs">'+d.ghs.map(g=>'<span class="ghschip" title="'+(GHS[g]||g)+'">'+g+'</span>').join('')+'</span>':'';
+    const ghs=(d.ghs&&d.ghs.length)?'<span class="ghs">'+d.ghs.map(g=>'<img class="ghsicon" src="assets/ghs/'+g+'.png" alt="'+(GHS[g]||g)+'" title="'+(GHS[g]||g)+'" loading="lazy">').join('')+'</span>':'';
     const action=d.has_pdf?'<span class="open">Open ›</span>':'<span class="nopdf-tag">SDS not on file</span>';
     const inner='<div class="ptitle">'+hi(d.product,term)+'</div>'
       +'<div class="row2"><span class="badge">'+esc(d.category)+'</span>'+mfr+rev+status+ghs+action+'</div>';
