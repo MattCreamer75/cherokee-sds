@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-22 19:43",
-  "count": 53,
+  "generated": "2026-06-23 11:43",
+  "count": 51,
   "categories": [
     "Adhesive / sealant",
     "Aerosol",
@@ -64,7 +64,7 @@
         "GHS08"
       ],
       "location": "Paint shop",
-      "path": "sds/Paint Area/KRYLON® COLORmaxx™ Gloss Leather Brown.pdf",
+      "path": "sds/Paint Area/Krylon CoverMaxx Gloss Leather Brown (9128).pdf",
       "has_pdf": true
     },
     {
@@ -83,7 +83,7 @@
         "GHS08"
       ],
       "location": "Paint shop",
-      "path": "sds/Paint Area/KRYLON® COLORmaxx™ Gloss Sun Yellow.pdf",
+      "path": "sds/Paint Area/Krylon CoverMaxx Gloss Sun Yellow (9142).pdf",
       "has_pdf": true
     },
     {
@@ -102,7 +102,7 @@
         "GHS08"
       ],
       "location": "Paint shop",
-      "path": "sds/Paint Area/KRYLON® ColorMaxx™ Primer Red Oxide.pdf",
+      "path": "sds/Paint Area/Krylon CoverMaxx Red Oxide Primer (9186).pdf",
       "has_pdf": true
     },
     {
@@ -120,7 +120,7 @@
         "GHS08"
       ],
       "location": "Paint shop",
-      "path": "sds/Paint Area/KRYLON® OSHA Colors Safety Yellow.pdf",
+      "path": "sds/Paint Area/Krylon OSHA Colors Safety Yellow (1813).pdf",
       "has_pdf": true
     },
     {
@@ -139,7 +139,7 @@
         "GHS08"
       ],
       "location": "Paint shop",
-      "path": "sds/Paint Area/KRYLON® PRO PROFESSIONAL Galvanizing Primer.pdf",
+      "path": "sds/Paint Area/Krylon Pro Galvanizing Primer (K05872).pdf",
       "has_pdf": true
     },
     {
@@ -157,46 +157,8 @@
         "GHS08"
       ],
       "location": "Paint shop",
-      "path": "sds/Paint Area/KRYLON® PRO PROFESSIONAL Solvent-Based Marking Paint APWA Safety Yellow.pdf",
+      "path": "sds/Paint Area/Krylon Pro Marking Paint APWA Safety Yellow (K07301000).pdf",
       "has_pdf": true
-    },
-    {
-      "id": "sds-paint-krylon-rust-protector-gloss-black",
-      "product": "Krylon Rust Protector Enamel, Gloss Black",
-      "category": "Aerosol",
-      "category_key": "aerosol",
-      "manufacturer": "Krylon Products Group (Sherwin-Williams)",
-      "revision": "Version 24",
-      "status": "Verify",
-      "signal": "Danger",
-      "ghs": [
-        "GHS02",
-        "GHS04",
-        "GHS07",
-        "GHS08"
-      ],
-      "location": "Paint shop",
-      "path": "",
-      "has_pdf": false
-    },
-    {
-      "id": "sds-paint-krylon-rust-protector-gloss-white",
-      "product": "Krylon Rust Protector Enamel, Gloss White",
-      "category": "Aerosol",
-      "category_key": "aerosol",
-      "manufacturer": "Krylon Products Group (Sherwin-Williams)",
-      "revision": "Version 29",
-      "status": "Verify",
-      "signal": "Danger",
-      "ghs": [
-        "GHS02",
-        "GHS04",
-        "GHS07",
-        "GHS08"
-      ],
-      "location": "Paint shop",
-      "path": "",
-      "has_pdf": false
     },
     {
       "id": "sds-paint-rustoleum-osha-safety-orange",
@@ -214,7 +176,7 @@
         "GHS07"
       ],
       "location": "Paint shop",
-      "path": "sds/Paint Area/IC +SSPR 6PK GLOSS OSHA SAFETY ORANGE.pdf",
+      "path": "sds/Paint Area/RustOleum Gloss OSHA Safety Orange (1653830).pdf",
       "has_pdf": true
     },
     {
@@ -233,7 +195,7 @@
         "GHS08"
       ],
       "location": "Paint shop",
-      "path": "sds/Paint Area/PRO +LSPR 6PK FLAT GRAY PRIMER.pdf",
+      "path": "sds/Paint Area/RustOleum Pro Flat Gray Primer (7582838).pdf",
       "has_pdf": true
     },
     {
@@ -252,7 +214,7 @@
         "GHS08"
       ],
       "location": "Paint shop",
-      "path": "sds/Paint Area/STRUST +SSPR 6PK GLOSS SUNBURST YELLOW.pdf",
+      "path": "sds/Paint Area/RustOleum Gloss Sunburst Yellow (7747830).pdf",
       "has_pdf": true
     },
     {
@@ -602,7 +564,7 @@
         "GHS05"
       ],
       "location": "Paint shop",
-      "path": "sds/Paint Area/M-1 Gloss Remover.pdf",
+      "path": "sds/Paint Area/Sunnyside M-1 Gloss Remover (622).pdf",
       "has_pdf": true
     },
     {
@@ -637,7 +599,7 @@
         "GHS08"
       ],
       "location": "Paint shop",
-      "path": "sds/Paint Area/DTM Bonding Primer.pdf",
+      "path": "sds/Paint Area/SW DTM Bonding Primer Off White (B66A50).pdf",
       "has_pdf": true
     },
     {
@@ -656,7 +618,7 @@
         "GHS09"
       ],
       "location": "Paint shop",
-      "path": "sds/Paint Area/Industrial Enamel - Safety Yellow.pdf",
+      "path": "sds/Paint Area/SW Industrial Enamel Safety Yellow (B54Y37).pdf",
       "has_pdf": true
     },
     {
@@ -674,7 +636,7 @@
         "GHS08"
       ],
       "location": "Paint shop",
-      "path": "sds/Paint Area/KEM® 400 Primer Gray.pdf",
+      "path": "sds/Paint Area/SW KEM 400 Primer Gray (E61A400).pdf",
       "has_pdf": true
     },
     {
@@ -734,7 +696,7 @@
         "GHS08"
       ],
       "location": "Paint shop",
-      "path": "sds/Paint Area/Steel Spec® 1003 Shopcoat Primer Gray.pdf",
+      "path": "sds/Paint Area/SW Steel Spec 1003 Structural Steel Primer Gray (B50AV11).pdf",
       "has_pdf": true
     },
     {
@@ -769,7 +731,7 @@
         "GHS08"
       ],
       "location": "Paint shop",
-      "path": "sds/Paint Area/K119 Lacquer Thinner.pdf",
+      "path": "sds/Paint Area/SW Lacquer Thinner R7K119 (K119-SW).pdf",
       "has_pdf": true
     },
     {
@@ -821,7 +783,7 @@
         "GHS08"
       ],
       "location": "Paint shop",
-      "path": "sds/Paint Area/THOMPSON'S® US Signature Series Clear Wood Protector Sealer.pdf",
+      "path": "sds/Paint Area/Thompsons WaterSeal Clear Wood Protector Sealer.pdf",
       "has_pdf": true
     },
     {
