@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-23 17:53",
-  "count": 52,
+  "generated": "2026-06-23 18:10",
+  "count": 54,
   "categories": [
     "Adhesive / sealant",
     "Aerosol",
@@ -10,6 +10,7 @@
     "Gas",
     "Maintenance / lube",
     "Metal prep",
+    "Other",
     "Paint / coating",
     "Solvent",
     "Stick electrode",
@@ -584,6 +585,36 @@
       "location": "Paint shop",
       "path": "sds/Paint Area/Sunnyside M-1 Gloss Remover (622).pdf",
       "has_pdf": true
+    },
+    {
+      "id": "sds-added-commercial-abc-dry-chemical-fire-extinguisher-mqqyeo97",
+      "product": "Commercial  ABC Dry Chemical  Fire Extinguisher",
+      "category": "Other",
+      "category_key": "other",
+      "manufacturer": "Walter Kidde Portable Equipment, Inc.",
+      "revision": "10/20/2023",
+      "status": "On file",
+      "signal": "Warning",
+      "ghs": [
+        "GHS04"
+      ],
+      "location": "Shop/Field",
+      "path": "sds/Added/Commercial ABC Dry Chemical Fire Extinguisher (55).pdf",
+      "has_pdf": true
+    },
+    {
+      "id": "sds-welding-washington-alloy-e6010-coc-pdf",
+      "product": "Washington Alloy E6010 (CoC)",
+      "category": "Other",
+      "category_key": "other",
+      "manufacturer": "Washington",
+      "revision": "",
+      "status": "On file",
+      "signal": "None",
+      "ghs": [],
+      "location": "",
+      "path": "",
+      "has_pdf": false
     },
     {
       "id": "sds-paint-area-7543402-safety-yellow-pdf",
