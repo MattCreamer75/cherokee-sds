@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-24 13:40",
-  "count": 84,
+  "generated": "2026-06-24 15:03",
+  "count": 86,
   "categories": [
     "Adhesive / sealant",
     "Aerosol",
@@ -74,16 +74,16 @@
       "category": "Aerosol",
       "category_key": "aerosol",
       "manufacturer": "K&N Engineering, Inc.",
-      "revision": "1.0 (2017-01-20)",
-      "status": "Verify",
+      "revision": "Rev (2020-11-12)",
+      "status": "On file",
       "signal": "Danger",
       "ghs": [
         "GHS02",
         "GHS08"
       ],
       "location": "Shop",
-      "path": "",
-      "has_pdf": false
+      "path": "sds/Added/K&N Air Filter Oil Aerosol (Recharger Kit 11330).pdf",
+      "has_pdf": true
     },
     {
       "id": "sds-paint-krylon-covermaxx-leather-brown",
@@ -92,7 +92,7 @@
       "category_key": "aerosol",
       "manufacturer": "Krylon Products Group (Sherwin-Williams)",
       "revision": "Version 24",
-      "status": "Verify",
+      "status": "On file",
       "signal": "Danger",
       "ghs": [
         "GHS02",
@@ -101,7 +101,7 @@
         "GHS08"
       ],
       "location": "Paint shop",
-      "path": "sds/Paint Area/Krylon CoverMaxx Gloss Leather Brown (9128).pdf",
+      "path": "sds/Paint Area/KRYLON® COLORmaxx™ Gloss Leather Brown.pdf",
       "has_pdf": true
     },
     {
@@ -111,7 +111,7 @@
       "category_key": "aerosol",
       "manufacturer": "Krylon Products Group (Sherwin-Williams)",
       "revision": "Version 27",
-      "status": "Verify",
+      "status": "On file",
       "signal": "Danger",
       "ghs": [
         "GHS02",
@@ -120,12 +120,86 @@
         "GHS08"
       ],
       "location": "Paint shop",
-      "path": "sds/Paint Area/Krylon CoverMaxx Gloss Sun Yellow (9142).pdf",
+      "path": "sds/Paint Area/KRYLON® COLORmaxx™ Gloss Sun Yellow.pdf",
       "has_pdf": true
     },
     {
       "id": "sds-paint-krylon-covermaxx-red-oxide-primer",
       "product": "Krylon CoverMaxx, Red Oxide Primer",
+      "category": "Aerosol",
+      "category_key": "aerosol",
+      "manufacturer": "Krylon Products Group (Sherwin-Williams)",
+      "revision": "Version 24",
+      "status": "On file",
+      "signal": "Danger",
+      "ghs": [
+        "GHS02",
+        "GHS04",
+        "GHS07",
+        "GHS08"
+      ],
+      "location": "Paint shop",
+      "path": "sds/Paint Area/KRYLON® ColorMaxx™ Primer Red Oxide.pdf",
+      "has_pdf": true
+    },
+    {
+      "id": "sds-paint-krylon-osha-colors-safety-yellow",
+      "product": "Krylon OSHA Colors, Safety Yellow",
+      "category": "Aerosol",
+      "category_key": "aerosol",
+      "manufacturer": "Krylon Products Group (Sherwin-Williams)",
+      "revision": "Version 34.01",
+      "status": "On file",
+      "signal": "Danger",
+      "ghs": [
+        "GHS02",
+        "GHS07",
+        "GHS08"
+      ],
+      "location": "Paint shop",
+      "path": "sds/Paint Area/KRYLON® OSHA Colors Safety Yellow.pdf",
+      "has_pdf": true
+    },
+    {
+      "id": "sds-paint-krylon-pro-galvanizing-primer",
+      "product": "Krylon Pro Professional Galvanizing Primer",
+      "category": "Aerosol",
+      "category_key": "aerosol",
+      "manufacturer": "Krylon Products Group (Sherwin-Williams)",
+      "revision": "Version 25",
+      "status": "On file",
+      "signal": "Danger",
+      "ghs": [
+        "GHS02",
+        "GHS04",
+        "GHS07",
+        "GHS08"
+      ],
+      "location": "Paint shop",
+      "path": "sds/Paint Area/KRYLON® PRO PROFESSIONAL Galvanizing Primer.pdf",
+      "has_pdf": true
+    },
+    {
+      "id": "sds-paint-krylon-pro-marking-apwa-safety-yellow",
+      "product": "Krylon Pro Solvent-Based Marking Paint, APWA Safety Yellow",
+      "category": "Aerosol",
+      "category_key": "aerosol",
+      "manufacturer": "Krylon Products Group (Sherwin-Williams)",
+      "revision": "Version 33",
+      "status": "On file",
+      "signal": "Danger",
+      "ghs": [
+        "GHS02",
+        "GHS07",
+        "GHS08"
+      ],
+      "location": "Paint shop",
+      "path": "sds/Paint Area/KRYLON® PRO PROFESSIONAL Solvent-Based Marking Paint APWA Safety Yellow.pdf",
+      "has_pdf": true
+    },
+    {
+      "id": "sds-paint-krylon-rust-protector-gloss-black",
+      "product": "Krylon Rust Protector Enamel, Gloss Black",
       "category": "Aerosol",
       "category_key": "aerosol",
       "manufacturer": "Krylon Products Group (Sherwin-Williams)",
@@ -139,34 +213,16 @@
         "GHS08"
       ],
       "location": "Paint shop",
-      "path": "sds/Paint Area/Krylon CoverMaxx Red Oxide Primer (9186).pdf",
-      "has_pdf": true
+      "path": "",
+      "has_pdf": false
     },
     {
-      "id": "sds-paint-krylon-osha-colors-safety-yellow",
-      "product": "Krylon OSHA Colors, Safety Yellow",
+      "id": "sds-paint-krylon-rust-protector-gloss-white",
+      "product": "Krylon Rust Protector Enamel, Gloss White",
       "category": "Aerosol",
       "category_key": "aerosol",
       "manufacturer": "Krylon Products Group (Sherwin-Williams)",
-      "revision": "Version 34.01",
-      "status": "Verify",
-      "signal": "Danger",
-      "ghs": [
-        "GHS02",
-        "GHS07",
-        "GHS08"
-      ],
-      "location": "Paint shop",
-      "path": "sds/Paint Area/Krylon OSHA Colors Safety Yellow (1813).pdf",
-      "has_pdf": true
-    },
-    {
-      "id": "sds-paint-krylon-pro-galvanizing-primer",
-      "product": "Krylon Pro Professional Galvanizing Primer",
-      "category": "Aerosol",
-      "category_key": "aerosol",
-      "manufacturer": "Krylon Products Group (Sherwin-Williams)",
-      "revision": "Version 25",
+      "revision": "Version 29",
       "status": "Verify",
       "signal": "Danger",
       "ghs": [
@@ -176,26 +232,8 @@
         "GHS08"
       ],
       "location": "Paint shop",
-      "path": "sds/Paint Area/Krylon Pro Galvanizing Primer (K05872).pdf",
-      "has_pdf": true
-    },
-    {
-      "id": "sds-paint-krylon-pro-marking-apwa-safety-yellow",
-      "product": "Krylon Pro Solvent-Based Marking Paint, APWA Safety Yellow",
-      "category": "Aerosol",
-      "category_key": "aerosol",
-      "manufacturer": "Krylon Products Group (Sherwin-Williams)",
-      "revision": "Version 33",
-      "status": "Verify",
-      "signal": "Danger",
-      "ghs": [
-        "GHS02",
-        "GHS07",
-        "GHS08"
-      ],
-      "location": "Paint shop",
-      "path": "sds/Paint Area/Krylon Pro Marking Paint APWA Safety Yellow (K07301000).pdf",
-      "has_pdf": true
+      "path": "",
+      "has_pdf": false
     },
     {
       "id": "sds-paint-rustoleum-osha-safety-orange",
@@ -204,7 +242,7 @@
       "category_key": "aerosol",
       "manufacturer": "Rust-Oleum Corporation",
       "revision": "Rev 2021-04-06",
-      "status": "Verify",
+      "status": "On file",
       "signal": "Danger",
       "ghs": [
         "GHS02",
@@ -213,7 +251,7 @@
         "GHS07"
       ],
       "location": "Paint shop",
-      "path": "sds/Paint Area/RustOleum Gloss OSHA Safety Orange (1653830).pdf",
+      "path": "sds/Paint Area/IC +SSPR 6PK GLOSS OSHA SAFETY ORANGE.pdf",
       "has_pdf": true
     },
     {
@@ -223,7 +261,7 @@
       "category_key": "aerosol",
       "manufacturer": "Rust-Oleum Corporation",
       "revision": "Rev 2025-07-08",
-      "status": "Verify",
+      "status": "On file",
       "signal": "Danger",
       "ghs": [
         "GHS02",
@@ -232,7 +270,7 @@
         "GHS08"
       ],
       "location": "Paint shop",
-      "path": "sds/Paint Area/RustOleum Pro Flat Gray Primer (7582838).pdf",
+      "path": "sds/Paint Area/PRO +LSPR 6PK FLAT GRAY PRIMER.pdf",
       "has_pdf": true
     },
     {
@@ -242,7 +280,7 @@
       "category_key": "aerosol",
       "manufacturer": "Rust-Oleum Corporation",
       "revision": "Rev 2023-02-21",
-      "status": "Verify",
+      "status": "On file",
       "signal": "Danger",
       "ghs": [
         "GHS02",
@@ -251,7 +289,7 @@
         "GHS08"
       ],
       "location": "Paint shop",
-      "path": "sds/Paint Area/RustOleum Gloss Sunburst Yellow (7747830).pdf",
+      "path": "sds/Paint Area/STRUST +SSPR 6PK GLOSS SUNBURST YELLOW.pdf",
       "has_pdf": true
     },
     {
@@ -409,7 +447,7 @@
       "category": "Fuel",
       "category_key": "fuel",
       "manufacturer": "Chevron U.S.A. Inc.",
-      "revision": "Rev 2 (2016-03-10)",
+      "revision": "Rev 8",
       "status": "On file",
       "signal": "Danger",
       "ghs": [
@@ -632,15 +670,15 @@
       "category": "Maintenance / lube",
       "category_key": "maintenance",
       "manufacturer": "Lucas Oil Products, Inc.",
-      "revision": "(confirm current)",
-      "status": "Verify",
+      "revision": "SDS 10005 (current)",
+      "status": "On file",
       "signal": "Danger",
       "ghs": [
         "GHS05"
       ],
       "location": "Shop",
-      "path": "",
-      "has_pdf": false
+      "path": "sds/Added/Lucas Red 'N' Tacky NLGI #2 Grease.pdf",
+      "has_pdf": true
     },
     {
       "id": "sds-shelf-perfectstop-non-chlorinated-brake-cleaner-0265-0735",
@@ -729,13 +767,13 @@
       "category_key": "metal-prep",
       "manufacturer": "Sunnyside Corporation",
       "revision": "Revision 3",
-      "status": "Verify",
+      "status": "On file",
       "signal": "Danger",
       "ghs": [
         "GHS05"
       ],
       "location": "Paint shop",
-      "path": "sds/Paint Area/Sunnyside M-1 Gloss Remover (622).pdf",
+      "path": "sds/Paint Area/M-1 Gloss Remover.pdf",
       "has_pdf": true
     },
     {
@@ -744,9 +782,9 @@
       "category": "Other",
       "category_key": "other",
       "manufacturer": "Faci USA Industrial, Inc. (FILI Group)",
-      "revision": "1.0 (2018-11-05)",
+      "revision": "Rev 5 (2025-12-20)",
       "status": "On file",
-      "signal": "None",
+      "signal": "None (not classified)",
       "ghs": [],
       "location": "Shop",
       "path": "sds/Added/Calcium Stearate.pdf",
@@ -758,7 +796,7 @@
       "category": "Other",
       "category_key": "other",
       "manufacturer": "Clearco Products Co., Inc.",
-      "revision": "2015-08-11",
+      "revision": "Prepared 2015-08-11",
       "status": "On file",
       "signal": "Danger",
       "ghs": [
@@ -791,7 +829,7 @@
       "category": "Other",
       "category_key": "other",
       "manufacturer": "Honeywell Consumer Products (Shamrock Chicago)",
-      "revision": "2005 MSDS (confirm current)",
+      "revision": "SDS 503 (2022-08-16)",
       "status": "On file",
       "signal": "Warning",
       "ghs": [
@@ -808,8 +846,8 @@
       "category": "Other",
       "category_key": "other",
       "manufacturer": "SouthWin, Ltd.",
-      "revision": "2015-03-27",
-      "status": "Verify",
+      "revision": "Rev (2015-03-27)",
+      "status": "On file",
       "signal": "Danger",
       "ghs": [
         "GHS02",
@@ -817,8 +855,8 @@
         "GHS08"
       ],
       "location": "Shop",
-      "path": "",
-      "has_pdf": false
+      "path": "sds/Added/Krystal Kleer -25F Windshield Washer Fluid.pdf",
+      "has_pdf": true
     },
     {
       "id": "sds-photoref-super-s-diesel-exhaust-fluid-def",
@@ -826,13 +864,13 @@
       "category": "Other",
       "category_key": "other",
       "manufacturer": "Smitty's Supply, Inc.",
-      "revision": "DEF-001 (2012)",
-      "status": "Verify",
-      "signal": "",
+      "revision": "Ver DEF.001",
+      "status": "On file",
+      "signal": "None (not classified)",
       "ghs": [],
       "location": "Shop",
-      "path": "",
-      "has_pdf": false
+      "path": "sds/Added/Super S Diesel Exhaust Fluid (DEF).pdf",
+      "has_pdf": true
     },
     {
       "id": "sds-welding-washington-alloy-e6010-coc-pdf",
@@ -894,7 +932,7 @@
         "GHS08"
       ],
       "location": "Paint shop",
-      "path": "sds/Paint Area/SW DTM Bonding Primer Off White (B66A50).pdf",
+      "path": "sds/Paint Area/DTM Bonding Primer.pdf",
       "has_pdf": true
     },
     {
@@ -903,7 +941,7 @@
       "category": "Paint / coating",
       "category_key": "paint",
       "manufacturer": "Dupli-Color / Sherwin-Williams",
-      "revision": "(confirm current)",
+      "revision": "Ver 11 (TRG252)",
       "status": "On file",
       "signal": "Danger",
       "ghs": [
@@ -922,7 +960,7 @@
       "category_key": "paint",
       "manufacturer": "The Sherwin-Williams Company",
       "revision": "Version 10.03",
-      "status": "Verify",
+      "status": "On file",
       "signal": "Danger",
       "ghs": [
         "GHS02",
@@ -931,7 +969,7 @@
         "GHS09"
       ],
       "location": "Paint shop",
-      "path": "sds/Paint Area/SW Industrial Enamel Safety Yellow (B54Y37).pdf",
+      "path": "sds/Paint Area/Industrial Enamel - Safety Yellow.pdf",
       "has_pdf": true
     },
     {
@@ -941,7 +979,7 @@
       "category_key": "paint",
       "manufacturer": "The Sherwin-Williams Company",
       "revision": "Version 31.01",
-      "status": "Verify",
+      "status": "On file",
       "signal": "Danger",
       "ghs": [
         "GHS02",
@@ -949,7 +987,7 @@
         "GHS08"
       ],
       "location": "Paint shop",
-      "path": "sds/Paint Area/SW KEM 400 Primer Gray (E61A400).pdf",
+      "path": "sds/Paint Area/KEM® 400 Primer Gray.pdf",
       "has_pdf": true
     },
     {
@@ -1001,7 +1039,7 @@
       "category_key": "paint",
       "manufacturer": "The Sherwin-Williams Company",
       "revision": "Version 37.01",
-      "status": "Verify",
+      "status": "On file",
       "signal": "Danger",
       "ghs": [
         "GHS02",
@@ -1009,7 +1047,7 @@
         "GHS08"
       ],
       "location": "Paint shop",
-      "path": "sds/Paint Area/SW Steel Spec 1003 Structural Steel Primer Gray (B50AV11).pdf",
+      "path": "sds/Paint Area/Steel Spec® 1003 Shopcoat Primer Gray.pdf",
       "has_pdf": true
     },
     {
@@ -1036,7 +1074,7 @@
       "category_key": "solvent",
       "manufacturer": "The Sherwin-Williams Company",
       "revision": "Version 23",
-      "status": "Verify",
+      "status": "On file",
       "signal": "Danger",
       "ghs": [
         "GHS02",
@@ -1044,7 +1082,7 @@
         "GHS08"
       ],
       "location": "Paint shop",
-      "path": "sds/Paint Area/SW Lacquer Thinner R7K119 (K119-SW).pdf",
+      "path": "sds/Paint Area/K119 Lacquer Thinner.pdf",
       "has_pdf": true
     },
     {
@@ -1054,7 +1092,7 @@
       "category_key": "solvent",
       "manufacturer": "Sherwin-Williams",
       "revision": "Version 11.01",
-      "status": "Verify",
+      "status": "On file",
       "signal": "Danger",
       "ghs": [
         "GHS02",
@@ -1071,7 +1109,7 @@
       "category_key": "solvent",
       "manufacturer": "Sherwin-Williams",
       "revision": "Version 12",
-      "status": "Verify",
+      "status": "On file",
       "signal": "Danger",
       "ghs": [
         "GHS02",
@@ -1089,14 +1127,14 @@
       "category_key": "solvent",
       "manufacturer": "The Thompson's Company (Sherwin-Williams)",
       "revision": "Version 12",
-      "status": "Verify",
+      "status": "On file",
       "signal": "Danger",
       "ghs": [
         "GHS07",
         "GHS08"
       ],
       "location": "Paint shop",
-      "path": "sds/Paint Area/Thompsons WaterSeal Clear Wood Protector Sealer.pdf",
+      "path": "sds/Paint Area/THOMPSON'S® US Signature Series Clear Wood Protector Sealer.pdf",
       "has_pdf": true
     },
     {
@@ -1105,7 +1143,7 @@
       "category": "Stick electrode",
       "category_key": "electrode",
       "manufacturer": "Victor Technologies / Arcair",
-      "revision": "2013-07-02",
+      "revision": "Per filed SDS",
       "status": "On file",
       "signal": "Warning",
       "ghs": [
@@ -1122,13 +1160,12 @@
       "category": "Stick electrode",
       "category_key": "electrode",
       "manufacturer": "CK Worldwide, Inc.",
-      "revision": "(confirm current)",
+      "revision": "Per filed SDS",
       "status": "On file",
-      "signal": "Danger",
+      "signal": "Warning",
       "ghs": [
         "GHS07",
-        "GHS08",
-        "GHS09"
+        "GHS08"
       ],
       "location": "Shop",
       "path": "sds/Added/CK Worldwide Tungsten Electrodes (TIG).pdf",
@@ -1140,13 +1177,13 @@
       "category": "Stick electrode",
       "category_key": "electrode",
       "manufacturer": "Hobart Brothers Company (ITW)",
-      "revision": "(confirm current)",
-      "status": "Verify",
-      "signal": "",
+      "revision": "SDS 415889C (NA)",
+      "status": "On file",
+      "signal": "None required (per SDS)",
       "ghs": [],
       "location": "Shop",
-      "path": "",
-      "has_pdf": false
+      "path": "sds/Added/Hobart 7018 SMAW Stick Electrodes.pdf",
+      "has_pdf": true
     },
     {
       "id": "sds-photoref-lincoln-electric-excalibur-7018-mr-e7018-stick-e",
@@ -1258,9 +1295,9 @@
       "category": "Welding wire",
       "category_key": "wire",
       "manufacturer": "voestalpine Bohler Welding",
-      "revision": "1.3 (2016-07-25)",
+      "revision": "Reviewed 2016-01-29",
       "status": "On file",
-      "signal": "None",
+      "signal": "None required (per SDS)",
       "ghs": [],
       "location": "Shop",
       "path": "sds/Added/Bohler Avesta 309L-Si Stainless Welding Wire.pdf",
@@ -1330,15 +1367,16 @@
       "category": "Welding wire",
       "category_key": "wire",
       "manufacturer": "Pinnacle Alloys (Sowesco I, LLC)",
-      "revision": "Rev 03 (2015)",
-      "status": "Verify",
+      "revision": "Issued 2019-09-18",
+      "status": "On file",
       "signal": "Warning",
       "ghs": [
-        "GHS07"
+        "GHS07",
+        "GHS08"
       ],
       "location": "Shop",
-      "path": "",
-      "has_pdf": false
+      "path": "sds/Added/Pinnacle Alloys Bare Aluminum Welding Electrodes & Rods (ER4043).pdf",
+      "has_pdf": true
     },
     {
       "id": "sds-photoref-pinnacle-alloys-bare-stainless-steel-welding-wir",
@@ -1346,16 +1384,16 @@
       "category": "Welding wire",
       "category_key": "wire",
       "manufacturer": "Pinnacle Alloys (Sowesco I, LLC)",
-      "revision": "Rev 03 (2015)",
-      "status": "Verify",
+      "revision": "Issued 2025-06-23",
+      "status": "On file",
       "signal": "Danger",
       "ghs": [
         "GHS07",
         "GHS08"
       ],
       "location": "Shop",
-      "path": "",
-      "has_pdf": false
+      "path": "sds/Added/Pinnacle Alloys Bare Stainless Steel Welding Wire & Rods (ER308L 309 316).pdf",
+      "has_pdf": true
     },
     {
       "id": "sds-photoref-pinnacle-alloys-carbon-steel-welding-rods-er70s-",
@@ -1395,13 +1433,13 @@
       "category": "Welding wire",
       "category_key": "wire",
       "manufacturer": "Washington Alloy Company",
-      "revision": "(confirm current)",
-      "status": "Verify",
-      "signal": "",
+      "revision": "Per filed SDS (not classified)",
+      "status": "On file",
+      "signal": "None required (per SDS)",
       "ghs": [],
       "location": "Shop",
-      "path": "",
-      "has_pdf": false
+      "path": "sds/Added/Washington Alloy Stainless Steel Welding Wire (ER308L).pdf",
+      "has_pdf": true
     }
   ]
 }
