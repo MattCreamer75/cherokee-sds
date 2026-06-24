@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-24 15:03",
-  "count": 86,
+  "generated": "2026-06-24 16:35",
+  "count": 87,
   "categories": [
     "Adhesive / sealant",
     "Aerosol",
@@ -8,6 +8,7 @@
     "Cutting fluid",
     "Fuel",
     "Gas",
+    "How-To / Instructions",
     "Maintenance / lube",
     "Metal prep",
     "Other",
@@ -17,6 +18,21 @@
     "Welding wire"
   ],
   "items": [
+    {
+      "id": "sds-how-to-read",
+      "product": "How to Read an SDS",
+      "category": "How-To / Instructions",
+      "category_key": "instructions",
+      "manufacturer": "Cherokee Industrial Fabricators, Ltd. — Safety / HazCom",
+      "revision": "Rev 2026-06",
+      "status": "On file",
+      "signal": "None",
+      "ghs": [],
+      "location": "",
+      "path": "sds/Instructions/How to Read an SDS.pdf",
+      "has_pdf": true,
+      "pinned": true
+    },
     {
       "id": "sds-shelf-dap-100-silicone-all-purpose-sealant-clear",
       "product": "DAP 100% Silicone All-Purpose Sealant (Clear)",
@@ -30,8 +46,9 @@
         "GHS07"
       ],
       "location": "Fabrication / maintenance",
-      "path": "sds/General/DAP 100pct Silicone Sealant.pdf",
-      "has_pdf": true
+      "path": "sds/Adhesive & Sealant/DAP 100pct Silicone Sealant.pdf",
+      "has_pdf": true,
+      "pinned": false
     },
     {
       "id": "sds-photoref-crc-3-36-multi-purpose-lubricant-corrosion-inhib",
@@ -49,8 +66,9 @@
         "GHS08"
       ],
       "location": "Shop",
-      "path": "sds/Added/CRC 3-36 Multi-Purpose Lubricant & Corrosion Inhibitor.pdf",
-      "has_pdf": true
+      "path": "sds/Aerosol/CRC 3-36 Multi-Purpose Lubricant & Corrosion Inhibitor.pdf",
+      "has_pdf": true,
+      "pinned": false
     },
     {
       "id": "sds-welding-crc-anti-spatter",
@@ -65,8 +83,9 @@
         "GHS08"
       ],
       "location": "Welding bays",
-      "path": "sds/Welding/CRC Anti-Spatter (SDS 32318).pdf",
-      "has_pdf": true
+      "path": "sds/Aerosol/CRC Anti-Spatter (SDS 32318).pdf",
+      "has_pdf": true,
+      "pinned": false
     },
     {
       "id": "sds-photoref-k-n-air-filter-oil-aerosol-recharger-kit-11330",
@@ -82,8 +101,9 @@
         "GHS08"
       ],
       "location": "Shop",
-      "path": "sds/Added/K&N Air Filter Oil Aerosol (Recharger Kit 11330).pdf",
-      "has_pdf": true
+      "path": "sds/Aerosol/K&N Air Filter Oil Aerosol (Recharger Kit 11330).pdf",
+      "has_pdf": true,
+      "pinned": false
     },
     {
       "id": "sds-paint-krylon-covermaxx-leather-brown",
@@ -101,8 +121,9 @@
         "GHS08"
       ],
       "location": "Paint shop",
-      "path": "sds/Paint Area/KRYLON® COLORmaxx™ Gloss Leather Brown.pdf",
-      "has_pdf": true
+      "path": "sds/Aerosol/KRYLON® COLORmaxx™ Gloss Leather Brown.pdf",
+      "has_pdf": true,
+      "pinned": false
     },
     {
       "id": "sds-paint-krylon-covermaxx-sun-yellow",
@@ -120,8 +141,9 @@
         "GHS08"
       ],
       "location": "Paint shop",
-      "path": "sds/Paint Area/KRYLON® COLORmaxx™ Gloss Sun Yellow.pdf",
-      "has_pdf": true
+      "path": "sds/Aerosol/KRYLON® COLORmaxx™ Gloss Sun Yellow.pdf",
+      "has_pdf": true,
+      "pinned": false
     },
     {
       "id": "sds-paint-krylon-covermaxx-red-oxide-primer",
@@ -139,8 +161,9 @@
         "GHS08"
       ],
       "location": "Paint shop",
-      "path": "sds/Paint Area/KRYLON® ColorMaxx™ Primer Red Oxide.pdf",
-      "has_pdf": true
+      "path": "sds/Aerosol/KRYLON® ColorMaxx™ Primer Red Oxide.pdf",
+      "has_pdf": true,
+      "pinned": false
     },
     {
       "id": "sds-paint-krylon-osha-colors-safety-yellow",
@@ -157,8 +180,9 @@
         "GHS08"
       ],
       "location": "Paint shop",
-      "path": "sds/Paint Area/KRYLON® OSHA Colors Safety Yellow.pdf",
-      "has_pdf": true
+      "path": "sds/Aerosol/KRYLON® OSHA Colors Safety Yellow.pdf",
+      "has_pdf": true,
+      "pinned": false
     },
     {
       "id": "sds-paint-krylon-pro-galvanizing-primer",
@@ -176,8 +200,9 @@
         "GHS08"
       ],
       "location": "Paint shop",
-      "path": "sds/Paint Area/KRYLON® PRO PROFESSIONAL Galvanizing Primer.pdf",
-      "has_pdf": true
+      "path": "sds/Aerosol/KRYLON® PRO PROFESSIONAL Galvanizing Primer.pdf",
+      "has_pdf": true,
+      "pinned": false
     },
     {
       "id": "sds-paint-krylon-pro-marking-apwa-safety-yellow",
@@ -194,8 +219,9 @@
         "GHS08"
       ],
       "location": "Paint shop",
-      "path": "sds/Paint Area/KRYLON® PRO PROFESSIONAL Solvent-Based Marking Paint APWA Safety Yellow.pdf",
-      "has_pdf": true
+      "path": "sds/Aerosol/KRYLON® PRO PROFESSIONAL Solvent-Based Marking Paint APWA Safety Yellow.pdf",
+      "has_pdf": true,
+      "pinned": false
     },
     {
       "id": "sds-paint-krylon-rust-protector-gloss-black",
@@ -214,7 +240,8 @@
       ],
       "location": "Paint shop",
       "path": "",
-      "has_pdf": false
+      "has_pdf": false,
+      "pinned": false
     },
     {
       "id": "sds-paint-krylon-rust-protector-gloss-white",
@@ -233,7 +260,8 @@
       ],
       "location": "Paint shop",
       "path": "",
-      "has_pdf": false
+      "has_pdf": false,
+      "pinned": false
     },
     {
       "id": "sds-paint-rustoleum-osha-safety-orange",
@@ -251,8 +279,9 @@
         "GHS07"
       ],
       "location": "Paint shop",
-      "path": "sds/Paint Area/IC +SSPR 6PK GLOSS OSHA SAFETY ORANGE.pdf",
-      "has_pdf": true
+      "path": "sds/Aerosol/IC +SSPR 6PK GLOSS OSHA SAFETY ORANGE.pdf",
+      "has_pdf": true,
+      "pinned": false
     },
     {
       "id": "sds-paint-rustoleum-flat-gray-primer",
@@ -270,8 +299,9 @@
         "GHS08"
       ],
       "location": "Paint shop",
-      "path": "sds/Paint Area/PRO +LSPR 6PK FLAT GRAY PRIMER.pdf",
-      "has_pdf": true
+      "path": "sds/Aerosol/PRO +LSPR 6PK FLAT GRAY PRIMER.pdf",
+      "has_pdf": true,
+      "pinned": false
     },
     {
       "id": "sds-paint-rustoleum-sunburst-yellow",
@@ -289,8 +319,9 @@
         "GHS08"
       ],
       "location": "Paint shop",
-      "path": "sds/Paint Area/STRUST +SSPR 6PK GLOSS SUNBURST YELLOW.pdf",
-      "has_pdf": true
+      "path": "sds/Aerosol/STRUST +SSPR 6PK GLOSS SUNBURST YELLOW.pdf",
+      "has_pdf": true,
+      "pinned": false
     },
     {
       "id": "sds-photoref-weld-aid-york-107a-mig-anti-spatter",
@@ -308,7 +339,8 @@
       ],
       "location": "Shop",
       "path": "",
-      "has_pdf": false
+      "has_pdf": false,
+      "pinned": false
     },
     {
       "id": "sds-shelf-coil-cleaner-foaming-solvent-brand-unresolved",
@@ -326,8 +358,9 @@
         "GHS09"
       ],
       "location": "HVAC / maintenance",
-      "path": "sds/General/CRC Foaming Coil Cleaner (03196).pdf",
-      "has_pdf": true
+      "path": "sds/Cleaner/CRC Foaming Coil Cleaner (03196).pdf",
+      "has_pdf": true,
+      "pinned": false
     },
     {
       "id": "sds-shelf-dg-home-window-cleaner-with-ammonia",
@@ -340,8 +373,9 @@
       "signal": "None",
       "ghs": [],
       "location": "Janitorial / shop",
-      "path": "sds/General/DG Home Window Cleaner (Sun-Pine).pdf",
-      "has_pdf": true
+      "path": "sds/Cleaner/DG Home Window Cleaner (Sun-Pine).pdf",
+      "has_pdf": true,
+      "pinned": false
     },
     {
       "id": "sds-added-no-rinse-neutral-ph-floor-cleaner-mqi2q6pg",
@@ -357,8 +391,9 @@
         "GHS07"
       ],
       "location": "Janitorial",
-      "path": "sds/Added/No Rinse Neutral pH Floor Cleaner (34).pdf",
-      "has_pdf": true
+      "path": "sds/Cleaner/No Rinse Neutral pH Floor Cleaner (34).pdf",
+      "has_pdf": true,
+      "pinned": false
     },
     {
       "id": "sds-shelf-wasp-hornet-killer-grainger-2dcb5-tough-guy",
@@ -375,8 +410,9 @@
         "GHS09"
       ],
       "location": "Pest control / storage",
-      "path": "sds/General/Dymon THE End Wasp & Hornet Killer (Grainger 237567).pdf",
-      "has_pdf": true
+      "path": "sds/Cleaner/Dymon THE End Wasp & Hornet Killer (Grainger 237567).pdf",
+      "has_pdf": true,
+      "pinned": false
     },
     {
       "id": "sds-added-windex-glass-cleaner-mqi2ys1p",
@@ -391,8 +427,9 @@
         "GHS06"
       ],
       "location": "Janitorial",
-      "path": "sds/Added/Windex Glass Cleaner (35).pdf",
-      "has_pdf": true
+      "path": "sds/Cleaner/Windex Glass Cleaner (35).pdf",
+      "has_pdf": true,
+      "pinned": false
     },
     {
       "id": "sds-shelf-crc-cutting-oil-thread-cutting-lubricant-14050",
@@ -408,8 +445,9 @@
         "GHS08"
       ],
       "location": "Fabrication",
-      "path": "sds/General/CRC Cutting Oil 14050.pdf",
-      "has_pdf": true
+      "path": "sds/Cutting Fluid/CRC Cutting Oil 14050.pdf",
+      "has_pdf": true,
+      "pinned": false
     },
     {
       "id": "sds-photoref-oatey-clear-cutting-oil",
@@ -422,8 +460,9 @@
       "signal": "None (not classified)",
       "ghs": [],
       "location": "Shop",
-      "path": "sds/Added/Oatey Clear Cutting Oil.pdf",
-      "has_pdf": true
+      "path": "sds/Cutting Fluid/Oatey Clear Cutting Oil.pdf",
+      "has_pdf": true,
+      "pinned": false
     },
     {
       "id": "sds-shelf-relton-new-rapid-tap-heavy-duty-cutting-fluid",
@@ -438,8 +477,9 @@
         "GHS07"
       ],
       "location": "Fabrication",
-      "path": "sds/General/Relton New Rapid Tap (Cutting Fluid).pdf",
-      "has_pdf": true
+      "path": "sds/Cutting Fluid/Relton New Rapid Tap (Cutting Fluid).pdf",
+      "has_pdf": true,
+      "pinned": false
     },
     {
       "id": "sds-photoref-chevron-regular-unleaded-gasoline",
@@ -457,8 +497,9 @@
         "GHS09"
       ],
       "location": "Shop",
-      "path": "sds/Added/Chevron Regular Unleaded Gasoline.pdf",
-      "has_pdf": true
+      "path": "sds/Fuel/Chevron Regular Unleaded Gasoline.pdf",
+      "has_pdf": true,
+      "pinned": false
     },
     {
       "id": "sds-shelf-no-2-diesel-fuel-ulsd-on-road",
@@ -476,7 +517,8 @@
       ],
       "location": "Fleet/equipment",
       "path": "sds/Fuel/No. 2 Diesel (Marathon via Sun Coast).pdf",
-      "has_pdf": true
+      "has_pdf": true,
+      "pinned": false
     },
     {
       "id": "sds-shelf-star-tron-enzyme-fuel-treatment-gas-formula",
@@ -492,8 +534,9 @@
         "GHS01"
       ],
       "location": "Fleet / small engines",
-      "path": "sds/General/Star Tron Enzyme Fuel Treatment - Gas (Star brite).pdf",
-      "has_pdf": true
+      "path": "sds/Fuel/Star Tron Enzyme Fuel Treatment - Gas (Star brite).pdf",
+      "has_pdf": true,
+      "pinned": false
     },
     {
       "id": "sds-shelf-unleaded-gasoline-all-grades",
@@ -511,7 +554,8 @@
       ],
       "location": "Fleet/equipment",
       "path": "sds/Fuel/Gasoline - All Grades (Marathon via Sun Coast).pdf",
-      "has_pdf": true
+      "has_pdf": true,
+      "pinned": false
     },
     {
       "id": "sds-welding-acetylene",
@@ -527,8 +571,9 @@
         "GHS04"
       ],
       "location": "Welding/cutting",
-      "path": "sds/Welding/Acetylene (Matheson).pdf",
-      "has_pdf": true
+      "path": "sds/Gas/Acetylene (Matheson).pdf",
+      "has_pdf": true,
+      "pinned": false
     },
     {
       "id": "sds-welding-argon",
@@ -543,8 +588,9 @@
         "GHS04"
       ],
       "location": "Welding bays",
-      "path": "sds/Welding/Argon Compressed (Matheson).pdf",
-      "has_pdf": true
+      "path": "sds/Gas/Argon Compressed (Matheson).pdf",
+      "has_pdf": true,
+      "pinned": false
     },
     {
       "id": "sds-welding-argon-co2-75-25",
@@ -559,8 +605,9 @@
         "GHS04"
       ],
       "location": "Welding bays",
-      "path": "sds/Welding/Argon-CO2 75-25 Mix (Western Intl Gas).pdf",
-      "has_pdf": true
+      "path": "sds/Gas/Argon-CO2 75-25 Mix (Western Intl Gas).pdf",
+      "has_pdf": true,
+      "pinned": false
     },
     {
       "id": "sds-welding-carbon-dioxide",
@@ -575,8 +622,9 @@
         "GHS04"
       ],
       "location": "Welding bays",
-      "path": "sds/Welding/Carbon Dioxide (Matheson).pdf",
-      "has_pdf": true
+      "path": "sds/Gas/Carbon Dioxide (Matheson).pdf",
+      "has_pdf": true,
+      "pinned": false
     },
     {
       "id": "sds-photoref-hydrogen-in-argon-3-h2-shielding-gas-mix",
@@ -594,7 +642,8 @@
       ],
       "location": "Shop",
       "path": "",
-      "has_pdf": false
+      "has_pdf": false,
+      "pinned": false
     },
     {
       "id": "sds-welding-oxygen",
@@ -610,8 +659,9 @@
         "GHS04"
       ],
       "location": "Welding/cutting",
-      "path": "sds/Welding/Oxygen Compressed (Matheson).pdf",
-      "has_pdf": true
+      "path": "sds/Gas/Oxygen Compressed (Matheson).pdf",
+      "has_pdf": true,
+      "pinned": false
     },
     {
       "id": "sds-welding-propane",
@@ -627,8 +677,9 @@
         "GHS04"
       ],
       "location": "Cutting/heating",
-      "path": "sds/Welding/Propane (Matheson).pdf",
-      "has_pdf": true
+      "path": "sds/Gas/Propane (Matheson).pdf",
+      "has_pdf": true,
+      "pinned": false
     },
     {
       "id": "sds-shelf-crc-battery-cleaner-with-acid-indicator-05023",
@@ -644,8 +695,9 @@
         "GHS07"
       ],
       "location": "Fleet / shop",
-      "path": "sds/General/CRC Battery Cleaner 05023.pdf",
-      "has_pdf": true
+      "path": "sds/Maintenance & Lube/CRC Battery Cleaner 05023.pdf",
+      "has_pdf": true,
+      "pinned": false
     },
     {
       "id": "sds-photoref-loctite-lb-771-nickel-anti-seize",
@@ -661,8 +713,9 @@
         "GHS08"
       ],
       "location": "Shop",
-      "path": "sds/Added/Loctite LB 771 Nickel Anti-Seize.pdf",
-      "has_pdf": true
+      "path": "sds/Maintenance & Lube/Loctite LB 771 Nickel Anti-Seize.pdf",
+      "has_pdf": true,
+      "pinned": false
     },
     {
       "id": "sds-photoref-lucas-red-n-tacky-nlgi-2-grease",
@@ -677,8 +730,9 @@
         "GHS05"
       ],
       "location": "Shop",
-      "path": "sds/Added/Lucas Red 'N' Tacky NLGI #2 Grease.pdf",
-      "has_pdf": true
+      "path": "sds/Maintenance & Lube/Lucas Red 'N' Tacky NLGI #2 Grease.pdf",
+      "has_pdf": true,
+      "pinned": false
     },
     {
       "id": "sds-shelf-perfectstop-non-chlorinated-brake-cleaner-0265-0735",
@@ -695,8 +749,9 @@
         "GHS08"
       ],
       "location": "Maintenance",
-      "path": "sds/General/PerfectStop Non-Chlorinated Brake Cleaner (Penray 0735).pdf",
-      "has_pdf": true
+      "path": "sds/Maintenance & Lube/PerfectStop Non-Chlorinated Brake Cleaner (Penray 0735).pdf",
+      "has_pdf": true,
+      "pinned": false
     },
     {
       "id": "sds-shelf-schaeffer-s-205a-full-synthetic-atf-dexron-vi-mercon-lv",
@@ -709,8 +764,9 @@
       "signal": "None",
       "ghs": [],
       "location": "Maintenance / fleet",
-      "path": "sds/General/Schaeffer 205A Full-Synthetic ATF.pdf",
-      "has_pdf": true
+      "path": "sds/Maintenance & Lube/Schaeffer 205A Full-Synthetic ATF.pdf",
+      "has_pdf": true,
+      "pinned": false
     },
     {
       "id": "sds-photoref-super-s-super-trac-303-tractor-hydraulic-fluid",
@@ -723,8 +779,9 @@
       "signal": "None (not classified)",
       "ghs": [],
       "location": "Shop",
-      "path": "sds/Added/Super S Super-Trac 303 Tractor Hydraulic Fluid.pdf",
-      "has_pdf": true
+      "path": "sds/Maintenance & Lube/Super S Super-Trac 303 Tractor Hydraulic Fluid.pdf",
+      "has_pdf": true,
+      "pinned": false
     },
     {
       "id": "sds-added-wd-40-mqqwmeu8",
@@ -741,8 +798,9 @@
         "GHS08"
       ],
       "location": "Shop/Field",
-      "path": "sds/Added/WD-40 (54).pdf",
-      "has_pdf": true
+      "path": "sds/Maintenance & Lube/WD-40 (54).pdf",
+      "has_pdf": true,
+      "pinned": false
     },
     {
       "id": "sds-shelf-krud-kutter-metal-clean-etch",
@@ -757,8 +815,9 @@
         "GHS07"
       ],
       "location": "Paint prep / fabrication",
-      "path": "sds/General/Krud Kutter Metal Clean & Etch (Rust-Oleum).pdf",
-      "has_pdf": true
+      "path": "sds/Metal Prep/Krud Kutter Metal Clean & Etch (Rust-Oleum).pdf",
+      "has_pdf": true,
+      "pinned": false
     },
     {
       "id": "sds-shelf-sunnyside-m1-gloss-remover",
@@ -773,8 +832,9 @@
         "GHS05"
       ],
       "location": "Paint shop",
-      "path": "sds/Paint Area/M-1 Gloss Remover.pdf",
-      "has_pdf": true
+      "path": "sds/Metal Prep/M-1 Gloss Remover.pdf",
+      "has_pdf": true,
+      "pinned": false
     },
     {
       "id": "sds-photoref-calcium-stearate",
@@ -787,8 +847,9 @@
       "signal": "None (not classified)",
       "ghs": [],
       "location": "Shop",
-      "path": "sds/Added/Calcium Stearate.pdf",
-      "has_pdf": true
+      "path": "sds/Other/Calcium Stearate.pdf",
+      "has_pdf": true,
+      "pinned": false
     },
     {
       "id": "sds-photoref-clearco-c-5-anti-spatter-liquid",
@@ -804,8 +865,9 @@
         "GHS08"
       ],
       "location": "Shop",
-      "path": "sds/Added/Clearco C-5 Anti-Spatter (Liquid).pdf",
-      "has_pdf": true
+      "path": "sds/Other/Clearco C-5 Anti-Spatter (Liquid).pdf",
+      "has_pdf": true,
+      "pinned": false
     },
     {
       "id": "sds-added-commercial-abc-dry-chemical-fire-extinguisher-mqqyeo97",
@@ -820,8 +882,9 @@
         "GHS04"
       ],
       "location": "Shop/Field",
-      "path": "sds/Added/Commercial ABC Dry Chemical Fire Extinguisher (55).pdf",
-      "has_pdf": true
+      "path": "sds/Other/Commercial ABC Dry Chemical Fire Extinguisher (55).pdf",
+      "has_pdf": true,
+      "pinned": false
     },
     {
       "id": "sds-photoref-custom-brand-antifreeze-coolant-prime",
@@ -837,8 +900,9 @@
         "GHS08"
       ],
       "location": "Shop",
-      "path": "sds/Added/Custom Brand Antifreeze   Coolant (Prime).pdf",
-      "has_pdf": true
+      "path": "sds/Other/Custom Brand Antifreeze   Coolant (Prime).pdf",
+      "has_pdf": true,
+      "pinned": false
     },
     {
       "id": "sds-photoref-krystal-kleer-25f-windshield-washer-fluid",
@@ -855,8 +919,9 @@
         "GHS08"
       ],
       "location": "Shop",
-      "path": "sds/Added/Krystal Kleer -25F Windshield Washer Fluid.pdf",
-      "has_pdf": true
+      "path": "sds/Other/Krystal Kleer -25F Windshield Washer Fluid.pdf",
+      "has_pdf": true,
+      "pinned": false
     },
     {
       "id": "sds-photoref-super-s-diesel-exhaust-fluid-def",
@@ -869,8 +934,9 @@
       "signal": "None (not classified)",
       "ghs": [],
       "location": "Shop",
-      "path": "sds/Added/Super S Diesel Exhaust Fluid (DEF).pdf",
-      "has_pdf": true
+      "path": "sds/Other/Super S Diesel Exhaust Fluid (DEF).pdf",
+      "has_pdf": true,
+      "pinned": false
     },
     {
       "id": "sds-welding-washington-alloy-e6010-coc-pdf",
@@ -884,7 +950,8 @@
       "ghs": [],
       "location": "",
       "path": "",
-      "has_pdf": false
+      "has_pdf": false,
+      "pinned": false
     },
     {
       "id": "sds-photoref-zinc-stearate-non-dusting",
@@ -898,7 +965,8 @@
       "ghs": [],
       "location": "Shop",
       "path": "",
-      "has_pdf": false
+      "has_pdf": false,
+      "pinned": false
     },
     {
       "id": "sds-paint-area-7543402-safety-yellow-pdf",
@@ -915,8 +983,9 @@
         "GHS08"
       ],
       "location": "Paint shop",
-      "path": "sds/Paint Area/7543402 Safety Yellow.pdf",
-      "has_pdf": true
+      "path": "sds/Paint & Coating/7543402 Safety Yellow.pdf",
+      "has_pdf": true,
+      "pinned": false
     },
     {
       "id": "sds-paint-sw-dtm-bonding-primer-off-white",
@@ -932,8 +1001,9 @@
         "GHS08"
       ],
       "location": "Paint shop",
-      "path": "sds/Paint Area/DTM Bonding Primer.pdf",
-      "has_pdf": true
+      "path": "sds/Paint & Coating/DTM Bonding Primer.pdf",
+      "has_pdf": true,
+      "pinned": false
     },
     {
       "id": "sds-photoref-dupli-color-bed-armor-truck-bed-coating",
@@ -950,8 +1020,9 @@
         "GHS08"
       ],
       "location": "Shop",
-      "path": "sds/Added/Dupli-Color Bed Armor Truck Bed Coating.pdf",
-      "has_pdf": true
+      "path": "sds/Paint & Coating/Dupli-Color Bed Armor Truck Bed Coating.pdf",
+      "has_pdf": true,
+      "pinned": false
     },
     {
       "id": "sds-paint-sw-industrial-enamel-safety-yellow",
@@ -969,8 +1040,9 @@
         "GHS09"
       ],
       "location": "Paint shop",
-      "path": "sds/Paint Area/Industrial Enamel - Safety Yellow.pdf",
-      "has_pdf": true
+      "path": "sds/Paint & Coating/Industrial Enamel - Safety Yellow.pdf",
+      "has_pdf": true,
+      "pinned": false
     },
     {
       "id": "sds-paint-sw-kem400-primer-gray",
@@ -987,8 +1059,9 @@
         "GHS08"
       ],
       "location": "Paint shop",
-      "path": "sds/Paint Area/KEM® 400 Primer Gray.pdf",
-      "has_pdf": true
+      "path": "sds/Paint & Coating/KEM® 400 Primer Gray.pdf",
+      "has_pdf": true,
+      "pinned": false
     },
     {
       "id": "sds-paint-area-pro-ind-gloss-black-pdf",
@@ -1001,8 +1074,9 @@
       "signal": "",
       "ghs": [],
       "location": "Paint shop",
-      "path": "sds/Paint Area/Pro Ind Gloss Black.pdf",
-      "has_pdf": true
+      "path": "sds/Paint & Coating/Pro Ind Gloss Black.pdf",
+      "has_pdf": true,
+      "pinned": false
     },
     {
       "id": "sds-paint-area-pro-ind-pure-white-pdf",
@@ -1015,8 +1089,9 @@
       "signal": "",
       "ghs": [],
       "location": "Paint shop",
-      "path": "sds/Paint Area/Pro Ind Pure White.pdf",
-      "has_pdf": true
+      "path": "sds/Paint & Coating/Pro Ind Pure White.pdf",
+      "has_pdf": true,
+      "pinned": false
     },
     {
       "id": "sds-paint-area-pro-ind-safety-yellow-pdf",
@@ -1029,8 +1104,9 @@
       "signal": "",
       "ghs": [],
       "location": "Paint shop",
-      "path": "sds/Paint Area/Pro Ind Safety Yellow.pdf",
-      "has_pdf": true
+      "path": "sds/Paint & Coating/Pro Ind Safety Yellow.pdf",
+      "has_pdf": true,
+      "pinned": false
     },
     {
       "id": "sds-paint-sw-steelspec-primer-gray",
@@ -1047,8 +1123,9 @@
         "GHS08"
       ],
       "location": "Paint shop",
-      "path": "sds/Paint Area/Steel Spec® 1003 Shopcoat Primer Gray.pdf",
-      "has_pdf": true
+      "path": "sds/Paint & Coating/Steel Spec® 1003 Shopcoat Primer Gray.pdf",
+      "has_pdf": true,
+      "pinned": false
     },
     {
       "id": "sds-shelf-klean-strip-acetone",
@@ -1064,8 +1141,9 @@
         "GHS07"
       ],
       "location": "Paint shop / cleanup",
-      "path": "sds/General/Klean-Strip Acetone (WM Barr).pdf",
-      "has_pdf": true
+      "path": "sds/Solvent/Klean-Strip Acetone (WM Barr).pdf",
+      "has_pdf": true,
+      "pinned": false
     },
     {
       "id": "sds-paint-sw-lacquer-thinner-r7k119",
@@ -1082,8 +1160,9 @@
         "GHS08"
       ],
       "location": "Paint shop",
-      "path": "sds/Paint Area/K119 Lacquer Thinner.pdf",
-      "has_pdf": true
+      "path": "sds/Solvent/K119 Lacquer Thinner.pdf",
+      "has_pdf": true,
+      "pinned": false
     },
     {
       "id": "sds-paint-area-sw-mineral-spirits-pdf",
@@ -1099,8 +1178,9 @@
         "GHS08"
       ],
       "location": "Paint shop",
-      "path": "sds/Paint Area/SW Mineral Spirits.pdf",
-      "has_pdf": true
+      "path": "sds/Solvent/SW Mineral Spirits.pdf",
+      "has_pdf": true,
+      "pinned": false
     },
     {
       "id": "sds-paint-area-sw-xylene-pdf",
@@ -1117,8 +1197,9 @@
         "GHS08"
       ],
       "location": "Paint shop",
-      "path": "sds/Paint Area/SW Xylene.pdf",
-      "has_pdf": true
+      "path": "sds/Solvent/SW Xylene.pdf",
+      "has_pdf": true,
+      "pinned": false
     },
     {
       "id": "sds-paint-thompsons-waterseal-clear-wood-sealer",
@@ -1134,8 +1215,9 @@
         "GHS08"
       ],
       "location": "Paint shop",
-      "path": "sds/Paint Area/THOMPSON'S® US Signature Series Clear Wood Protector Sealer.pdf",
-      "has_pdf": true
+      "path": "sds/Solvent/THOMPSON'S® US Signature Series Clear Wood Protector Sealer.pdf",
+      "has_pdf": true,
+      "pinned": false
     },
     {
       "id": "sds-photoref-arcair-air-carbon-arc-gouging-electrodes-wmk-ser",
@@ -1151,8 +1233,9 @@
         "GHS08"
       ],
       "location": "Shop",
-      "path": "sds/Added/Arcair Air Carbon-Arc Gouging Electrodes (WMK series).pdf",
-      "has_pdf": true
+      "path": "sds/Stick Electrode/Arcair Air Carbon-Arc Gouging Electrodes (WMK series).pdf",
+      "has_pdf": true,
+      "pinned": false
     },
     {
       "id": "sds-photoref-ck-worldwide-tungsten-electrodes-tig",
@@ -1168,8 +1251,9 @@
         "GHS08"
       ],
       "location": "Shop",
-      "path": "sds/Added/CK Worldwide Tungsten Electrodes (TIG).pdf",
-      "has_pdf": true
+      "path": "sds/Stick Electrode/CK Worldwide Tungsten Electrodes (TIG).pdf",
+      "has_pdf": true,
+      "pinned": false
     },
     {
       "id": "sds-photoref-hobart-7018-smaw-stick-electrodes",
@@ -1182,8 +1266,9 @@
       "signal": "None required (per SDS)",
       "ghs": [],
       "location": "Shop",
-      "path": "sds/Added/Hobart 7018 SMAW Stick Electrodes.pdf",
-      "has_pdf": true
+      "path": "sds/Stick Electrode/Hobart 7018 SMAW Stick Electrodes.pdf",
+      "has_pdf": true,
+      "pinned": false
     },
     {
       "id": "sds-photoref-lincoln-electric-excalibur-7018-mr-e7018-stick-e",
@@ -1197,7 +1282,8 @@
       "ghs": [],
       "location": "Shop",
       "path": "",
-      "has_pdf": false
+      "has_pdf": false,
+      "pinned": false
     },
     {
       "id": "sds-photoref-lincoln-electric-fleetweld-5p-e6010-stick-electr",
@@ -1211,7 +1297,8 @@
       "ghs": [],
       "location": "Shop",
       "path": "",
-      "has_pdf": false
+      "has_pdf": false,
+      "pinned": false
     },
     {
       "id": "sds-photoref-lincoln-electric-lincoln-7018-e7018-stick-electr",
@@ -1225,7 +1312,8 @@
       "ghs": [],
       "location": "Shop",
       "path": "",
-      "has_pdf": false
+      "has_pdf": false,
+      "pinned": false
     },
     {
       "id": "sds-photoref-pinnacle-alloys-stainless-steel-electrodes-e308-",
@@ -1243,7 +1331,8 @@
       ],
       "location": "Shop",
       "path": "",
-      "has_pdf": false
+      "has_pdf": false,
+      "pinned": false
     },
     {
       "id": "sds-welding-washington-alloy-e6010",
@@ -1256,8 +1345,9 @@
       "signal": "None (article)",
       "ghs": [],
       "location": "Welding bays",
-      "path": "sds/Welding/Washington Alloy Carbon Steel Electrodes SDS (AWS A5.1, 2019).pdf",
-      "has_pdf": true
+      "path": "sds/Stick Electrode/Washington Alloy Carbon Steel Electrodes SDS (AWS A5.1, 2019).pdf",
+      "has_pdf": true,
+      "pinned": false
     },
     {
       "id": "sds-welding-washington-alloy-e6011",
@@ -1270,8 +1360,9 @@
       "signal": "None (article)",
       "ghs": [],
       "location": "Welding bays",
-      "path": "sds/Welding/Washington Alloy Carbon Steel Electrodes SDS (AWS A5.1, 2019).pdf",
-      "has_pdf": true
+      "path": "sds/Stick Electrode/Washington Alloy Carbon Steel Electrodes SDS (AWS A5.1, 2019).pdf",
+      "has_pdf": true,
+      "pinned": false
     },
     {
       "id": "sds-welding-washington-alloy-e7018",
@@ -1286,8 +1377,9 @@
         "GHS06"
       ],
       "location": "Welding bays",
-      "path": "sds/Welding/Washington Alloy Carbon Steel Electrodes SDS (AWS A5.1, 2019).pdf",
-      "has_pdf": true
+      "path": "sds/Stick Electrode/Washington Alloy Carbon Steel Electrodes SDS (AWS A5.1, 2019).pdf",
+      "has_pdf": true,
+      "pinned": false
     },
     {
       "id": "sds-photoref-bohler-avesta-309l-si-stainless-welding-wire",
@@ -1300,8 +1392,9 @@
       "signal": "None required (per SDS)",
       "ghs": [],
       "location": "Shop",
-      "path": "sds/Added/Bohler Avesta 309L-Si Stainless Welding Wire.pdf",
-      "has_pdf": true
+      "path": "sds/Welding Wire/Bohler Avesta 309L-Si Stainless Welding Wire.pdf",
+      "has_pdf": true,
+      "pinned": false
     },
     {
       "id": "sds-welding-er308l-wms",
@@ -1316,8 +1409,9 @@
         "GHS06"
       ],
       "location": "Welding bays",
-      "path": "sds/Welding/Stainless Welding Wire ER308L (Welding Material Sales).pdf",
-      "has_pdf": true
+      "path": "sds/Welding Wire/Stainless Welding Wire ER308L (Welding Material Sales).pdf",
+      "has_pdf": true,
+      "pinned": false
     },
     {
       "id": "sds-photoref-hobart-maxal-4043-aluminum-welding-wire-er4043",
@@ -1331,7 +1425,8 @@
       "ghs": [],
       "location": "Shop",
       "path": "",
-      "has_pdf": false
+      "has_pdf": false,
+      "pinned": false
     },
     {
       "id": "sds-welding-lincoln-ultracore-71a85",
@@ -1344,8 +1439,9 @@
       "signal": "None (article)",
       "ghs": [],
       "location": "Welding bays",
-      "path": "sds/Welding/Lincoln UltraCore 71A85 Flux-Cored Wire.pdf",
-      "has_pdf": true
+      "path": "sds/Welding Wire/Lincoln UltraCore 71A85 Flux-Cored Wire.pdf",
+      "has_pdf": true,
+      "pinned": false
     },
     {
       "id": "sds-photoref-national-standard-carbon-steel-welding-wire-ns-1",
@@ -1359,7 +1455,8 @@
       "ghs": [],
       "location": "Shop",
       "path": "",
-      "has_pdf": false
+      "has_pdf": false,
+      "pinned": false
     },
     {
       "id": "sds-photoref-pinnacle-alloys-bare-aluminum-welding-electrodes",
@@ -1375,8 +1472,9 @@
         "GHS08"
       ],
       "location": "Shop",
-      "path": "sds/Added/Pinnacle Alloys Bare Aluminum Welding Electrodes & Rods (ER4043).pdf",
-      "has_pdf": true
+      "path": "sds/Welding Wire/Pinnacle Alloys Bare Aluminum Welding Electrodes & Rods (ER4043).pdf",
+      "has_pdf": true,
+      "pinned": false
     },
     {
       "id": "sds-photoref-pinnacle-alloys-bare-stainless-steel-welding-wir",
@@ -1392,8 +1490,9 @@
         "GHS08"
       ],
       "location": "Shop",
-      "path": "sds/Added/Pinnacle Alloys Bare Stainless Steel Welding Wire & Rods (ER308L 309 316).pdf",
-      "has_pdf": true
+      "path": "sds/Welding Wire/Pinnacle Alloys Bare Stainless Steel Welding Wire & Rods (ER308L 309 316).pdf",
+      "has_pdf": true,
+      "pinned": false
     },
     {
       "id": "sds-photoref-pinnacle-alloys-carbon-steel-welding-rods-er70s-",
@@ -1411,7 +1510,8 @@
       ],
       "location": "Shop",
       "path": "",
-      "has_pdf": false
+      "has_pdf": false,
+      "pinned": false
     },
     {
       "id": "sds-welding-viking-er70s6",
@@ -1424,8 +1524,9 @@
       "signal": "None (article)",
       "ghs": [],
       "location": "Welding bays",
-      "path": "sds/Welding/Viking ER70S-6 MIG Wire (Davis Wire).pdf",
-      "has_pdf": true
+      "path": "sds/Welding Wire/Viking ER70S-6 MIG Wire (Davis Wire).pdf",
+      "has_pdf": true,
+      "pinned": false
     },
     {
       "id": "sds-photoref-washington-alloy-stainless-steel-welding-wire-er",
@@ -1438,8 +1539,9 @@
       "signal": "None required (per SDS)",
       "ghs": [],
       "location": "Shop",
-      "path": "sds/Added/Washington Alloy Stainless Steel Welding Wire (ER308L).pdf",
-      "has_pdf": true
+      "path": "sds/Welding Wire/Washington Alloy Stainless Steel Welding Wire (ER308L).pdf",
+      "has_pdf": true,
+      "pinned": false
     }
   ]
 }
