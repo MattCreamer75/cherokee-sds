@@ -108,6 +108,7 @@ function render(){
     if(!q) return true;
     return (d.product+" "+d.manufacturer+" "+d.category+" "+(d.ghs||[]).join(" ")).toLowerCase().includes(q);
   });
+  rows.sort(function(a,b){ if(!!a.pinned!==!!b.pinned) return a.pinned?-1:1; return (a.product||"").toLowerCase().localeCompare((b.product||"").toLowerCase()); });
   $("#meta").textContent=rows.length+(rows.length===1?" sheet":" sheets")+(cat==="All"?"":" in "+cat)+(q?' for "'+term.trim()+'"':"");
   const res=$("#results"),empty=$("#empty");
   if(!rows.length){res.innerHTML="";empty.style.display="block";empty.innerHTML="<p>No match for <b>"+esc(term.trim())+"</b>.</p><p>Try fewer letters, the manufacturer, or a different spelling.</p>";return;}
