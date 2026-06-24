@@ -1,5 +1,5 @@
 {
-  "generated": "2026-06-24 16:48",
+  "generated": "2026-06-24 17:26",
   "count": 87,
   "categories": [
     "Adhesive / sealant",
@@ -969,25 +969,6 @@
       "pinned": false
     },
     {
-      "id": "sds-paint-area-7543402-safety-yellow-pdf",
-      "product": "7543402 Safety Yellow",
-      "category": "Paint / coating",
-      "category_key": "paint",
-      "manufacturer": "Rust-Oleum",
-      "revision": "2022/10/14",
-      "status": "On file",
-      "signal": "Danger",
-      "ghs": [
-        "GHS02",
-        "GHS07",
-        "GHS08"
-      ],
-      "location": "Paint shop",
-      "path": "sds/Paint & Coating/7543402 Safety Yellow.pdf",
-      "has_pdf": true,
-      "pinned": false
-    },
-    {
       "id": "sds-paint-sw-dtm-bonding-primer-off-white",
       "product": "DTM Bonding Primer, Off White",
       "category": "Paint / coating",
@@ -1105,6 +1086,25 @@
       "ghs": [],
       "location": "Paint shop",
       "path": "sds/Paint & Coating/Pro Ind Safety Yellow.pdf",
+      "has_pdf": true,
+      "pinned": false
+    },
+    {
+      "id": "sds-paint-area-7543402-safety-yellow-pdf",
+      "product": "Rust-Oleum Safety Yellow",
+      "category": "Paint / coating",
+      "category_key": "paint",
+      "manufacturer": "Rust-Oleum",
+      "revision": "2022/10/14",
+      "status": "On file",
+      "signal": "Danger",
+      "ghs": [
+        "GHS02",
+        "GHS07",
+        "GHS08"
+      ],
+      "location": "Paint shop",
+      "path": "sds/Paint & Coating/7543402 Safety Yellow.pdf",
       "has_pdf": true,
       "pinned": false
     },
