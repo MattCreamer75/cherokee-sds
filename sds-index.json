@@ -1,5 +1,5 @@
 {
-  "generated": "2026-06-23 20:21",
+  "generated": "2026-06-24 13:40",
   "count": 84,
   "categories": [
     "Adhesive / sealant",
@@ -39,7 +39,7 @@
       "category": "Aerosol",
       "category_key": "aerosol",
       "manufacturer": "CRC Industries, Inc.",
-      "revision": "2013-11-11 (confirm current)",
+      "revision": "Rev 02 (2021-07-02)",
       "status": "On file",
       "signal": "Danger",
       "ghs": [
@@ -379,13 +379,13 @@
       "category": "Cutting fluid",
       "category_key": "cutting-fluid",
       "manufacturer": "Oatey Co.",
-      "revision": "2015-05-12",
-      "status": "Verify",
-      "signal": "",
+      "revision": "Ver 1.2.15.11 (2021-09-28)",
+      "status": "On file",
+      "signal": "None (not classified)",
       "ghs": [],
       "location": "Shop",
-      "path": "",
-      "has_pdf": false
+      "path": "sds/Added/Oatey Clear Cutting Oil.pdf",
+      "has_pdf": true
     },
     {
       "id": "sds-shelf-relton-new-rapid-tap-heavy-duty-cutting-fluid",
@@ -615,16 +615,16 @@
       "category": "Maintenance / lube",
       "category_key": "maintenance",
       "manufacturer": "Henkel Corporation",
-      "revision": "2014-08-28 (confirm current)",
-      "status": "Verify",
-      "signal": "Warning",
+      "revision": "Rev 007.0 (2021-08-23)",
+      "status": "On file",
+      "signal": "Danger",
       "ghs": [
         "GHS07",
         "GHS08"
       ],
       "location": "Shop",
-      "path": "",
-      "has_pdf": false
+      "path": "sds/Added/Loctite LB 771 Nickel Anti-Seize.pdf",
+      "has_pdf": true
     },
     {
       "id": "sds-photoref-lucas-red-n-tacky-nlgi-2-grease",
@@ -680,13 +680,13 @@
       "category": "Maintenance / lube",
       "category_key": "maintenance",
       "manufacturer": "Smitty's Supply, Inc.",
-      "revision": "HYDFLD-001 (2015)",
-      "status": "Verify",
-      "signal": "",
+      "revision": "Ver HYDFLD.001",
+      "status": "On file",
+      "signal": "None (not classified)",
       "ghs": [],
       "location": "Shop",
-      "path": "",
-      "has_pdf": false
+      "path": "sds/Added/Super S Super-Trac 303 Tractor Hydraulic Fluid.pdf",
+      "has_pdf": true
     },
     {
       "id": "sds-added-wd-40-mqqwmeu8",
