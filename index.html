@@ -63,6 +63,17 @@
   .guidenote{display:flex;align-items:center;gap:9px;background:var(--orange-light);border:1px solid rgba(217,83,30,.35);color:var(--orange-dark);border-radius:10px;padding:11px 14px;margin:0 0 12px;text-decoration:none;font-size:13.5px;font-weight:500;line-height:1.35}
   .guidenote svg{flex:0 0 auto}
   .guidenote b{font-weight:700}
+.trainbox{border:1px solid rgba(217,83,30,.35);border-radius:10px;margin:0 0 12px;overflow:hidden;background:#fff}
+  .trainbox>summary{display:flex;align-items:center;gap:9px;background:var(--orange-light);color:var(--orange-dark);padding:11px 14px;cursor:pointer;font-size:13.5px;font-weight:600;list-style:none;line-height:1.35}
+  .trainbox>summary::-webkit-details-marker{display:none}
+  .trainbox>summary svg{flex:0 0 auto}
+  .trainbox>summary .chev{margin-left:auto;transition:transform .15s}
+  .trainbox[open]>summary .chev{transform:rotate(180deg)}
+  .trainwrap{padding:12px 14px}
+  .video16x9{position:relative;width:100%;padding-top:56.25%;border-radius:8px;overflow:hidden;background:#000}
+  .video16x9 iframe{position:absolute;inset:0;width:100%;height:100%;border:0}
+  .traindesc{font-size:12.5px;color:var(--silver-dark);margin:9px 0 0;line-height:1.4}
+  .watchfull{display:inline-flex;align-items:center;gap:6px;margin-top:8px;color:var(--orange);font-weight:700;text-decoration:none;font-size:13.5px}
   footer{max-width:880px;margin:0 auto;padding:8px 16px 40px;color:var(--silver-dark);font-size:11.5px;text-align:center}
 </style>
 </head>
@@ -89,6 +100,18 @@
 <main>
   <div class="meta" id="meta">Loading…</div>
   <div id="guidenote"></div>
+  <details class="trainbox">
+    <summary>
+      <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"/><polygon points="10 8 16 12 10 16 10 8" fill="currentColor" stroke="none"/></svg>
+      <span>Watch: <b>HazCom Training &mdash; Your Right to Know</b> (~5 min)</span>
+      <svg class="chev" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg>
+    </summary>
+    <div class="trainwrap">
+      <div class="video16x9"><iframe src="https://share.descript.com/embed/PLFJlb0xRnl" title="Hazard Communication — Your Right to Know" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen loading="lazy"></iframe></div>
+      <p class="traindesc">GHS labels, the nine hazard pictograms, signal words, and how to read a Safety Data Sheet &mdash; core Hazard Communication training for all employees.</p>
+      <a class="watchfull" href="https://share.descript.com/view/PLFJlb0xRnl" target="_blank" rel="noopener">Watch full screen &rsaquo;</a>
+    </div>
+  </details>
   <div id="results"></div>
   <div class="empty" id="empty" style="display:none"></div>
 </main>
